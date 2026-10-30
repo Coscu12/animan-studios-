@@ -104,10 +104,10 @@ export function face(g, hx, hy, r, o = {}) {
   });
   const by = ey - r * 0.3, bw = r * 0.15;
   const brow = (x, a) => seg(g, [[x - bw, by + a], [x + bw, by - a]], r * 0.075, col);
-  if (ex.brows === 'worried') { brow(eyeX[0], -r * 0.06); brow(eyeX[1], r * 0.06); }
-  if (ex.brows === 'angry') { brow(eyeX[0], r * 0.08); brow(eyeX[1], -r * 0.08); }
+  if (ex.brows === 'worried') { brow(eyeX[0], r * 0.06); brow(eyeX[1], -r * 0.06); }
+  if (ex.brows === 'angry') { brow(eyeX[0], -r * 0.08); brow(eyeX[1], r * 0.08); }
   if (ex.brows === 'raised') eyeX.forEach(x => { g.strokeStyle = col; g.lineWidth = r * 0.07; g.beginPath(); g.arc(x, by + r * 0.12, r * 0.15, Math.PI * 1.2, Math.PI * 1.8); g.stroke(); });
-  if (ex.brows === 'confused') { brow(eyeX[0], r * 0.07); g.strokeStyle = col; g.lineWidth = r * 0.07; g.beginPath(); g.arc(eyeX[1], by + r * 0.08, r * 0.15, Math.PI * 1.2, Math.PI * 1.8); g.stroke(); }
+  if (ex.brows === 'confused') { brow(eyeX[0], -r * 0.07); g.strokeStyle = col; g.lineWidth = r * 0.07; g.beginPath(); g.arc(eyeX[1], by + r * 0.08, r * 0.15, Math.PI * 1.2, Math.PI * 1.8); g.stroke(); }
   const mx = fx + (o.front ? 0 : r * 0.04), my = fy + r * 0.42;
   const talk = o.talk || 0;
   if (talk > 0.05) { g.fillStyle = col; g.beginPath(); g.ellipse(mx, my, r * 0.16, r * (0.05 + 0.2 * talk), 0, 0, Math.PI * 2); g.fill(); }

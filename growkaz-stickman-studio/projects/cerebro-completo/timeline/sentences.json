@@ -1,0 +1,1466 @@
+[
+ {
+  "i": 0,
+  "start": 0.298,
+  "end": 0.926,
+  "text": "Tomas el teléfono."
+ },
+ {
+  "i": 1,
+  "start": 1.834,
+  "end": 2.769,
+  "text": "No sabes por qué."
+ },
+ {
+  "i": 2,
+  "start": 2.769,
+  "end": 4.801,
+  "text": "No tenías nada que buscar."
+ },
+ {
+  "i": 3,
+  "start": 4.801,
+  "end": 6.398,
+  "text": "Nadie te escribió."
+ },
+ {
+  "i": 4,
+  "start": 7.082,
+  "end": 7.873,
+  "text": "Simplemente…"
+ },
+ {
+  "i": 5,
+  "start": 7.873,
+  "end": 9.41,
+  "text": "tu mano lo hizo."
+ },
+ {
+  "i": 6,
+  "start": 10.058,
+  "end": 10.82,
+  "text": "Desbloqueas."
+ },
+ {
+  "i": 7,
+  "start": 11.21,
+  "end": 11.913,
+  "text": "Deslizas."
+ },
+ {
+  "i": 8,
+  "start": 12.33,
+  "end": 12.9,
+  "text": "Un video."
+ },
+ {
+  "i": 9,
+  "start": 13.29,
+  "end": 13.64,
+  "text": "Otro."
+ },
+ {
+  "i": 10,
+  "start": 13.994,
+  "end": 14.666,
+  "text": "Otro más."
+ },
+ {
+  "i": 11,
+  "start": 14.666,
+  "end": 18.926,
+  "text": "Y cuando por fin levantas la vista, han pasado cuarenta minutos."
+ },
+ {
+  "i": 12,
+  "start": 20.586,
+  "end": 21.635,
+  "text": "Te sientas a trabajar."
+ },
+ {
+  "i": 13,
+  "start": 21.635,
+  "end": 23.03,
+  "text": "Lees un párrafo."
+ },
+ {
+  "i": 14,
+  "start": 23.03,
+  "end": 25.264,
+  "text": "Y tu mente ya está en otro lado."
+ },
+ {
+  "i": 15,
+  "start": 25.898,
+  "end": 26.943,
+  "text": "Abres una pestaña."
+ },
+ {
+  "i": 16,
+  "start": 27.338,
+  "end": 28.013,
+  "text": "Luego otra."
+ },
+ {
+  "i": 17,
+  "start": 28.554,
+  "end": 30.338,
+  "text": "Revisas algo que acabas de revisar."
+ },
+ {
+  "i": 18,
+  "start": 30.986,
+  "end": 38.588,
+  "text": "Y al final del día, cansado y sin haber hecho lo importante, te dices lo mismo de siempre: \"Algo está mal conmigo.\""
+ },
+ {
+  "i": 19,
+  "start": 40.106,
+  "end": 41.857,
+  "text": "Quiero que escuches esto con atención."
+ },
+ {
+  "i": 20,
+  "start": 42.57,
+  "end": 43.778,
+  "text": "No hay nada mal contigo."
+ },
+ {
+  "i": 21,
+  "start": 43.778,
+  "end": 45.804,
+  "text": "Tu cerebro no está roto."
+ },
+ {
+  "i": 22,
+  "start": 46.282,
+  "end": 47.539,
+  "text": "Está sobreestimulado."
+ },
+ {
+  "i": 23,
+  "start": 48.202,
+  "end": 52.476,
+  "text": "Y en los próximos minutos vas a entender exactamente qué le está pasando…"
+ },
+ {
+  "i": 24,
+  "start": 52.476,
+  "end": 54.254,
+  "text": "y cómo recuperarlo."
+ },
+ {
+  "i": 25,
+  "start": 55.242,
+  "end": 56.691,
+  "text": "El cerebro que heredaste."
+ },
+ {
+  "i": 26,
+  "start": 57.77,
+  "end": 59.037,
+  "text": "Empecemos por el principio."
+ },
+ {
+  "i": 27,
+  "start": 59.658,
+  "end": 62.533,
+  "text": "Tu cerebro fue diseñado para un mundo que ya no existe."
+ },
+ {
+  "i": 28,
+  "start": 63.146,
+  "end": 67.425,
+  "text": "Durante cientos de miles de años, los seres humanos vivieron en la escasez."
+ },
+ {
+  "i": 29,
+  "start": 67.425,
+  "end": 69.802,
+  "text": "La comida era escasa."
+ },
+ {
+  "i": 30,
+  "start": 69.802,
+  "end": 71.423,
+  "text": "La información era escasa."
+ },
+ {
+  "i": 31,
+  "start": 71.882,
+  "end": 73.718,
+  "text": "Las novedades eran escasas."
+ },
+ {
+  "i": 32,
+  "start": 74.282,
+  "end": 76.869,
+  "text": "Encontrar un árbol con fruta madura era un evento."
+ },
+ {
+  "i": 33,
+  "start": 77.674,
+  "end": 80.254,
+  "text": "Escuchar una noticia del grupo vecino, también."
+ },
+ {
+  "i": 34,
+  "start": 80.254,
+  "end": 85.593,
+  "text": "Y para que no dejaras de buscar esas cosas, tu cerebro desarrolló un sistema brillante."
+ },
+ {
+  "i": 35,
+  "start": 86.25,
+  "end": 88.257,
+  "text": "Ese sistema tiene un mensajero químico."
+ },
+ {
+  "i": 36,
+  "start": 88.746,
+  "end": 91.434,
+  "text": "Se llama dopamina."
+ },
+ {
+  "i": 37,
+  "start": 91.434,
+  "end": 95.3,
+  "text": "Durante mucho tiempo se pensó que la dopamina era la molécula del placer."
+ },
+ {
+  "i": 38,
+  "start": 95.946,
+  "end": 98.956,
+  "text": "Pero la ciencia ha ido mostrando algo más interesante."
+ },
+ {
+  "i": 39,
+  "start": 99.594,
+  "end": 105.0,
+  "text": "El neurocientífico Kent Berridge distinguió entre dos cosas: querer y disfrutar."
+ },
+ {
+  "i": 40,
+  "start": 105.706,
+  "end": 108.963,
+  "text": "Y descubrió que la dopamina está mucho más ligada al querer."
+ },
+ {
+  "i": 41,
+  "start": 109.45,
+  "end": 110.081,
+  "text": "Al deseo."
+ },
+ {
+  "i": 42,
+  "start": 110.442,
+  "end": 111.402,
+  "text": "A la anticipación."
+ },
+ {
+  "i": 43,
+  "start": 112.106,
+  "end": 114.122,
+  "text": "La dopamina no es la recompensa."
+ },
+ {
+  "i": 44,
+  "start": 114.57,
+  "end": 116.335,
+  "text": "Es la promesa de la recompensa."
+ },
+ {
+  "i": 45,
+  "start": 116.874,
+  "end": 119.288,
+  "text": "Es la voz que te dice: \"Sigue buscando."
+ },
+ {
+  "i": 46,
+  "start": 119.754,
+  "end": 121.157,
+  "text": "Algo bueno está por llegar.\""
+ },
+ {
+  "i": 47,
+  "start": 122.474,
+  "end": 130.514,
+  "text": "Wolfram Schultz, otro investigador, observó en sus experimentos que las neuronas de dopamina reaccionan con más fuerza ante lo inesperado."
+ },
+ {
+  "i": 48,
+  "start": 131.21,
+  "end": 135.163,
+  "text": "Cuando una recompensa supera lo que esperabas, el sistema se enciende."
+ },
+ {
+  "i": 49,
+  "start": 135.946,
+  "end": 139.017,
+  "text": "Cuando ya sabes exactamente lo que va a pasar, se calma."
+ },
+ {
+  "i": 50,
+  "start": 139.754,
+  "end": 140.731,
+  "text": "En otras palabras…"
+ },
+ {
+  "i": 51,
+  "start": 141.258,
+  "end": 143.288,
+  "text": "tu cerebro es adicto a la sorpresa."
+ },
+ {
+  "i": 52,
+  "start": 143.85,
+  "end": 147.082,
+  "text": "Y eso, en la sabana, te mantenía vivo."
+ },
+ {
+  "i": 53,
+  "start": 147.082,
+  "end": 147.373,
+  "text": "Hoy…"
+ },
+ {
+  "i": 54,
+  "start": 147.85,
+  "end": 150.529,
+  "text": "es la puerta por donde entra todo lo que te distrae."
+ },
+ {
+  "i": 55,
+  "start": 151.498,
+  "end": 152.923,
+  "text": "La máquina de la sorpresa."
+ },
+ {
+  "i": 56,
+  "start": 153.962,
+  "end": 155.234,
+  "text": "Ahora piensa en tu teléfono."
+ },
+ {
+  "i": 57,
+  "start": 155.882,
+  "end": 158.936,
+  "text": "Cada vez que lo desbloqueas, no sabes qué vas a encontrar."
+ },
+ {
+  "i": 58,
+  "start": 158.936,
+  "end": 160.948,
+  "text": "Quizás un mensaje importante."
+ },
+ {
+  "i": 59,
+  "start": 161.45,
+  "end": 162.093,
+  "text": "Quizás nada."
+ },
+ {
+  "i": 60,
+  "start": 162.602,
+  "end": 164.179,
+  "text": "Quizás un video que te hace reír."
+ },
+ {
+  "i": 61,
+  "start": 164.714,
+  "end": 166.655,
+  "text": "Quizás una notificación que te inquieta."
+ },
+ {
+  "i": 62,
+  "start": 167.274,
+  "end": 169.583,
+  "text": "Esa incertidumbre no es un accidente."
+ },
+ {
+  "i": 63,
+  "start": 170.762,
+  "end": 172.862,
+  "text": "En el siglo veinte, el psicólogo B."
+ },
+ {
+  "i": 64,
+  "start": 172.878,
+  "end": 173.06,
+  "text": "F."
+ },
+ {
+  "i": 65,
+  "start": 173.076,
+  "end": 175.871,
+  "text": "Skinner estudió cómo aprenden los animales."
+ },
+ {
+  "i": 66,
+  "start": 175.919,
+  "end": 185.993,
+  "text": "Y encontró algo poderoso: cuando la recompensa llega de forma impredecible, a veces sí y a veces no, el comportamiento se vuelve mucho más persistente."
+ },
+ {
+  "i": 67,
+  "start": 186.506,
+  "end": 187.955,
+  "text": "Más difícil de abandonar."
+ },
+ {
+  "i": 68,
+  "start": 188.522,
+  "end": 193.162,
+  "text": "Es el mismo principio que mantiene a una persona frente a una máquina tragamonedas."
+ },
+ {
+  "i": 69,
+  "start": 193.162,
+  "end": 195.258,
+  "text": "Se llama refuerzo intermitente."
+ },
+ {
+  "i": 70,
+  "start": 195.818,
+  "end": 198.25,
+  "text": "Y ahora vive en tu bolsillo."
+ },
+ {
+  "i": 71,
+  "start": 198.25,
+  "end": 200.118,
+  "text": "Deslizar hacia abajo para actualizar."
+ },
+ {
+  "i": 72,
+  "start": 200.586,
+  "end": 202.414,
+  "text": "El siguiente video que empieza solo."
+ },
+ {
+  "i": 73,
+  "start": 202.858,
+  "end": 205.277,
+  "text": "El contador de \"me gusta\" que cambia."
+ },
+ {
+  "i": 74,
+  "start": 205.802,
+  "end": 207.773,
+  "text": "Cada gesto es una pequeña palanca."
+ },
+ {
+  "i": 75,
+  "start": 210.026,
+  "end": 211.245,
+  "text": "No es que tú seas débil."
+ },
+ {
+  "i": 76,
+  "start": 211.754,
+  "end": 221.573,
+  "text": "Es que compites contra sistemas diseñados por equipos enteros de personas, con datos de millones de usuarios, cuyo objetivo es uno solo: que no te vayas."
+ },
+ {
+  "i": 77,
+  "start": 222.122,
+  "end": 223.489,
+  "text": "Tú tienes fuerza de voluntad."
+ },
+ {
+  "i": 78,
+  "start": 224.042,
+  "end": 225.423,
+  "text": "Ellos tienen ingeniería."
+ },
+ {
+  "i": 79,
+  "start": 225.994,
+  "end": 227.623,
+  "text": "Esa no es una pelea justa."
+ },
+ {
+  "i": 80,
+  "start": 228.106,
+  "end": 228.877,
+  "text": "Y entenderlo…"
+ },
+ {
+  "i": 81,
+  "start": 229.45,
+  "end": 231.706,
+  "text": "es el primer paso para dejar de culparte."
+ },
+ {
+  "i": 82,
+  "start": 232.234,
+  "end": 233.981,
+  "text": "Lo que esto le hace a tu atención."
+ },
+ {
+  "i": 83,
+  "start": 234.602,
+  "end": 236.408,
+  "text": "Pero hay algo más profundo ocurriendo."
+ },
+ {
+  "i": 84,
+  "start": 237.13,
+  "end": 244.255,
+  "text": "La psiquiatra Anna Lembke, de la Universidad de Stanford, describe el sistema de placer y dolor del cerebro como una balanza."
+ },
+ {
+  "i": 85,
+  "start": 244.842,
+  "end": 248.942,
+  "text": "Cuando recibes un estímulo placentero, la balanza se inclina hacia un lado."
+ },
+ {
+  "i": 86,
+  "start": 248.942,
+  "end": 254.266,
+  "text": "Y tu cerebro, que busca el equilibrio, empuja en sentido contrario para nivelarla."
+ },
+ {
+  "i": 87,
+  "start": 254.858,
+  "end": 257.451,
+  "text": "Si eso ocurre de vez en cuando, no pasa nada."
+ },
+ {
+  "i": 88,
+  "start": 257.962,
+  "end": 261.017,
+  "text": "Pero si ocurre todo el día, cada pocos minutos…"
+ },
+ {
+  "i": 89,
+  "start": 261.482,
+  "end": 264.214,
+  "text": "tu cerebro empieza a compensar de forma constante."
+ },
+ {
+  "i": 90,
+  "start": 265.898,
+  "end": 266.615,
+  "text": "¿El resultado?"
+ },
+ {
+  "i": 91,
+  "start": 267.21,
+  "end": 269.275,
+  "text": "Lo normal empieza a sentirse aburrido."
+ },
+ {
+  "i": 92,
+  "start": 269.738,
+  "end": 271.466,
+  "text": "Leer un libro se siente lento."
+ },
+ {
+  "i": 93,
+  "start": 271.946,
+  "end": 274.503,
+  "text": "Una conversación sin pantalla se siente vacía."
+ },
+ {
+  "i": 94,
+  "start": 274.986,
+  "end": 277.944,
+  "text": "Trabajar en una sola tarea se siente casi doloroso."
+ },
+ {
+  "i": 95,
+  "start": 278.474,
+  "end": 280.255,
+  "text": "No porque esas cosas hayan cambiado."
+ },
+ {
+  "i": 96,
+  "start": 280.65,
+  "end": 282.867,
+  "text": "Sino porque cambió tu punto de referencia."
+ },
+ {
+  "i": 97,
+  "start": 284.394,
+  "end": 295.403,
+  "text": "La investigadora Gloria Mark, de la Universidad de California en Irvine, lleva unos veinte años midiendo cuánto tiempo mantienen las personas su atención en una pantalla antes de cambiar a otra cosa."
+ },
+ {
+  "i": 98,
+  "start": 295.946,
+  "end": 300.167,
+  "text": "A principios de los años dos mil, el promedio rondaba los dos minutos y medio."
+ },
+ {
+  "i": 99,
+  "start": 300.682,
+  "end": 302.391,
+  "text": "En sus mediciones más recientes…"
+ },
+ {
+  "i": 100,
+  "start": 302.762,
+  "end": 304.654,
+  "text": "unos cuarenta y siete segundos."
+ },
+ {
+  "i": 101,
+  "start": 304.654,
+  "end": 306.656,
+  "text": "Cuarenta y siete segundos."
+ },
+ {
+  "i": 102,
+  "start": 307.114,
+  "end": 311.11,
+  "text": "Y lo más revelador: muchas de esas interrupciones no vienen de afuera."
+ },
+ {
+  "i": 103,
+  "start": 311.594,
+  "end": 312.996,
+  "text": "Vienen de nosotros mismos."
+ },
+ {
+  "i": 104,
+  "start": 313.258,
+  "end": 314.756,
+  "text": "Nos interrumpimos solos."
+ },
+ {
+  "i": 105,
+  "start": 314.756,
+  "end": 318.276,
+  "text": "Y cada salto tiene un costo."
+ },
+ {
+  "i": 106,
+  "start": 318.794,
+  "end": 323.156,
+  "text": "La investigadora Sophie Leroy le dio un nombre: residuo de atención."
+ },
+ {
+  "i": 107,
+  "start": 323.754,
+  "end": 328.543,
+  "text": "Cuando pasas de una tarea a otra, una parte de tu mente se queda atrapada en la anterior."
+ },
+ {
+  "i": 108,
+  "start": 329.098,
+  "end": 331.459,
+  "text": "Revisas un mensaje rápido y vuelves a tu trabajo…"
+ },
+ {
+  "i": 109,
+  "start": 332.106,
+  "end": 333.281,
+  "text": "pero no vuelves completo."
+ },
+ {
+  "i": 110,
+  "start": 333.281,
+  "end": 336.381,
+  "text": "Un pedazo de ti sigue pensando en ese mensaje."
+ },
+ {
+  "i": 111,
+  "start": 336.906,
+  "end": 339.47,
+  "text": "Ahora multiplica eso por cien veces al día."
+ },
+ {
+  "i": 112,
+  "start": 339.946,
+  "end": 342.741,
+  "text": "Por eso terminas agotado sin haber hecho casi nada."
+ },
+ {
+  "i": 113,
+  "start": 342.767,
+  "end": 344.726,
+  "text": "No es que hayas trabajado demasiado."
+ },
+ {
+  "i": 114,
+  "start": 345.29,
+  "end": 347.094,
+  "text": "Es que te fragmentaste demasiado."
+ },
+ {
+  "i": 115,
+  "start": 347.094,
+  "end": 349.316,
+  "text": "Tu atención aprendió a saltar."
+ },
+ {
+  "i": 116,
+  "start": 349.866,
+  "end": 351.036,
+  "text": "Y lo que se aprende…"
+ },
+ {
+  "i": 117,
+  "start": 351.036,
+  "end": 352.588,
+  "text": "se puede desaprender."
+ },
+ {
+  "i": 118,
+  "start": 353.098,
+  "end": 354.231,
+  "text": "La buena noticia."
+ },
+ {
+  "i": 119,
+  "start": 354.826,
+  "end": 356.718,
+  "text": "Aquí está la parte que nadie te dice."
+ },
+ {
+  "i": 120,
+  "start": 357.258,
+  "end": 358.646,
+  "text": "Tu cerebro es plástico."
+ },
+ {
+  "i": 121,
+  "start": 359.178,
+  "end": 360.545,
+  "text": "Cambia con lo que repites."
+ },
+ {
+  "i": 122,
+  "start": 360.906,
+  "end": 362.356,
+  "text": "Se adapta a lo que le das."
+ },
+ {
+  "i": 123,
+  "start": 362.922,
+  "end": 368.684,
+  "text": "Si durante años le diste estímulos rápidos, constantes e impredecibles, se ajustó a eso."
+ },
+ {
+  "i": 124,
+  "start": 369.29,
+  "end": 370.992,
+  "text": "Y si empiezas a darle otra cosa…"
+ },
+ {
+  "i": 125,
+  "start": 370.992,
+  "end": 372.573,
+  "text": "también se ajustará."
+ },
+ {
+  "i": 126,
+  "start": 373.194,
+  "end": 373.908,
+  "text": "No en un día."
+ },
+ {
+  "i": 127,
+  "start": 374.346,
+  "end": 375.725,
+  "text": "Pero sí con constancia."
+ },
+ {
+  "i": 128,
+  "start": 377.258,
+  "end": 379.163,
+  "text": "No necesitas huir a una montaña."
+ },
+ {
+  "i": 129,
+  "start": 379.722,
+  "end": 381.777,
+  "text": "No necesitas tirar tu teléfono al río."
+ },
+ {
+  "i": 130,
+  "start": 382.346,
+  "end": 383.839,
+  "text": "Necesitas bajar el volumen."
+ },
+ {
+  "i": 131,
+  "start": 384.65,
+  "end": 387.294,
+  "text": "Déjame darte cinco formas concretas de hacerlo."
+ },
+ {
+  "i": 132,
+  "start": 387.818,
+  "end": 389.83,
+  "text": "Cinco formas de recuperar tu mente."
+ },
+ {
+  "i": 133,
+  "start": 389.83,
+  "end": 391.146,
+  "text": "Uno."
+ },
+ {
+  "i": 134,
+  "start": 391.146,
+  "end": 392.284,
+  "text": "Aumenta la fricción."
+ },
+ {
+  "i": 135,
+  "start": 392.842,
+  "end": 395.137,
+  "text": "Las distracciones que ganan son las fáciles."
+ },
+ {
+  "i": 136,
+  "start": 395.498,
+  "end": 397.225,
+  "text": "Así que hazlas difíciles."
+ },
+ {
+  "i": 137,
+  "start": 397.77,
+  "end": 400.965,
+  "text": "Saca las aplicaciones más adictivas de tu pantalla de inicio."
+ },
+ {
+  "i": 138,
+  "start": 401.546,
+  "end": 403.39,
+  "text": "Cierra sesión después de usarlas."
+ },
+ {
+  "i": 139,
+  "start": 403.914,
+  "end": 406.526,
+  "text": "Deja el teléfono en otra habitación cuando trabajes."
+ },
+ {
+  "i": 140,
+  "start": 407.05,
+  "end": 408.445,
+  "text": "No dependas de tu voluntad."
+ },
+ {
+  "i": 141,
+  "start": 409.066,
+  "end": 412.213,
+  "text": "Diseña tu entorno para que la voluntad no sea necesaria."
+ },
+ {
+  "i": 142,
+  "start": 412.213,
+  "end": 413.674,
+  "text": "Dos."
+ },
+ {
+  "i": 143,
+  "start": 413.674,
+  "end": 415.198,
+  "text": "Reduce el ruido de entrada."
+ },
+ {
+  "i": 144,
+  "start": 415.786,
+  "end": 420.506,
+  "text": "Desactiva todas las notificaciones que no vengan de una persona real que te necesite."
+ },
+ {
+  "i": 145,
+  "start": 421.162,
+  "end": 428.543,
+  "text": "Cada sonido, cada vibración, cada globo rojo es una pequeña promesa de dopamina que te arranca de lo que estás haciendo."
+ },
+ {
+  "i": 146,
+  "start": 429.226,
+  "end": 430.661,
+  "text": "Tú decides cuándo mirar."
+ },
+ {
+  "i": 147,
+  "start": 431.178,
+  "end": 432.088,
+  "text": "No tu teléfono."
+ },
+ {
+  "i": 148,
+  "start": 432.088,
+  "end": 433.418,
+  "text": "Tres."
+ },
+ {
+  "i": 149,
+  "start": 433.418,
+  "end": 434.7,
+  "text": "Practica el aburrimiento."
+ },
+ {
+  "i": 150,
+  "start": 435.306,
+  "end": 436.066,
+  "text": "Suena extraño."
+ },
+ {
+  "i": 151,
+  "start": 436.426,
+  "end": 437.37,
+  "text": "Pero es poderoso."
+ },
+ {
+  "i": 152,
+  "start": 437.962,
+  "end": 439.773,
+  "text": "Haz una fila sin sacar el teléfono."
+ },
+ {
+  "i": 153,
+  "start": 440.266,
+  "end": 442.193,
+  "text": "Camina diez minutos sin audífonos."
+ },
+ {
+  "i": 154,
+  "start": 442.892,
+  "end": 444.261,
+  "text": "Come sin una pantalla delante."
+ },
+ {
+  "i": 155,
+  "start": 444.81,
+  "end": 446.205,
+  "text": "Al principio será incómodo."
+ },
+ {
+  "i": 156,
+  "start": 446.666,
+  "end": 447.836,
+  "text": "Sentirás el impulso."
+ },
+ {
+  "i": 157,
+  "start": 448.298,
+  "end": 449.807,
+  "text": "Esa picazón de buscar algo."
+ },
+ {
+  "i": 158,
+  "start": 449.807,
+  "end": 451.402,
+  "text": "Obsérvala."
+ },
+ {
+  "i": 159,
+  "start": 451.402,
+  "end": 452.97,
+  "text": "No la obedezcas."
+ },
+ {
+  "i": 160,
+  "start": 452.97,
+  "end": 458.142,
+  "text": "Cada vez que resistes ese impulso, le enseñas a tu cerebro que la calma no es una amenaza."
+ },
+ {
+  "i": 161,
+  "start": 458.142,
+  "end": 459.498,
+  "text": "Cuatro."
+ },
+ {
+  "i": 162,
+  "start": 459.498,
+  "end": 461.596,
+  "text": "Entrena la atención como un músculo."
+ },
+ {
+  "i": 163,
+  "start": 462.09,
+  "end": 463.458,
+  "text": "Elige una sola tarea."
+ },
+ {
+  "i": 164,
+  "start": 463.946,
+  "end": 466.261,
+  "text": "Pon un temporizador de veinticinco minutos."
+ },
+ {
+  "i": 165,
+  "start": 466.57,
+  "end": 468.933,
+  "text": "Y durante ese tiempo, haz solo eso."
+ },
+ {
+  "i": 166,
+  "start": 469.482,
+  "end": 473.578,
+  "text": "Cuando tu mente se escape, y lo hará, simplemente regrésala."
+ },
+ {
+  "i": 167,
+  "start": 473.578,
+  "end": 474.244,
+  "text": "Sin enojo."
+ },
+ {
+  "i": 168,
+  "start": 474.634,
+  "end": 475.238,
+  "text": "Sin drama."
+ },
+ {
+  "i": 169,
+  "start": 475.85,
+  "end": 477.674,
+  "text": "Ese regreso es la repetición."
+ },
+ {
+  "i": 170,
+  "start": 478.314,
+  "end": 482.31,
+  "text": "Y como en el gimnasio, son las repeticiones las que construyen la fuerza."
+ },
+ {
+  "i": 171,
+  "start": 482.826,
+  "end": 484.956,
+  "text": "Con el tiempo, alarga los bloques."
+ },
+ {
+  "i": 172,
+  "start": 484.956,
+  "end": 486.379,
+  "text": "Treinta minutos."
+ },
+ {
+  "i": 173,
+  "start": 486.379,
+  "end": 488.154,
+  "text": "Cuarenta y cinco."
+ },
+ {
+  "i": 174,
+  "start": 488.154,
+  "end": 489.338,
+  "text": "Una hora."
+ },
+ {
+  "i": 175,
+  "start": 489.338,
+  "end": 489.93,
+  "text": "Cinco."
+ },
+ {
+  "i": 176,
+  "start": 489.93,
+  "end": 492.583,
+  "text": "Cambia la dopamina rápida por la dopamina lenta."
+ },
+ {
+  "i": 177,
+  "start": 493.13,
+  "end": 494.885,
+  "text": "No se trata de eliminar el placer."
+ },
+ {
+  "i": 178,
+  "start": 495.306,
+  "end": 497.254,
+  "text": "Se trata de elegir de dónde viene."
+ },
+ {
+  "i": 179,
+  "start": 497.802,
+  "end": 500.997,
+  "text": "Hay placeres que llegan al instante y se van igual de rápido."
+ },
+ {
+  "i": 180,
+  "start": 501.482,
+  "end": 503.103,
+  "text": "Y hay otros que cuestan esfuerzo…"
+ },
+ {
+  "i": 181,
+  "start": 503.562,
+  "end": 504.835,
+  "text": "pero dejan algo detrás."
+ },
+ {
+  "i": 182,
+  "start": 505.322,
+  "end": 506.321,
+  "text": "Hacer ejercicio."
+ },
+ {
+  "i": 183,
+  "start": 506.634,
+  "end": 507.804,
+  "text": "Aprender una habilidad."
+ },
+ {
+  "i": 184,
+  "start": 508.202,
+  "end": 509.277,
+  "text": "Terminar un proyecto."
+ },
+ {
+  "i": 185,
+  "start": 509.642,
+  "end": 511.117,
+  "text": "Tener una conversación real."
+ },
+ {
+  "i": 186,
+  "start": 511.69,
+  "end": 513.312,
+  "text": "Esos placeres no te vacían."
+ },
+ {
+  "i": 187,
+  "start": 513.77,
+  "end": 514.575,
+  "text": "Te construyen."
+ },
+ {
+  "i": 188,
+  "start": 514.575,
+  "end": 516.061,
+  "text": "Lo que vas a sentir."
+ },
+ {
+  "i": 189,
+  "start": 516.618,
+  "end": 518.31,
+  "text": "Imagina a alguien como Lucía."
+ },
+ {
+  "i": 190,
+  "start": 518.31,
+  "end": 519.971,
+  "text": "Treinta y dos años."
+ },
+ {
+  "i": 191,
+  "start": 520.458,
+  "end": 521.547,
+  "text": "Trabaja desde casa."
+ },
+ {
+  "i": 192,
+  "start": 522.122,
+  "end": 527.184,
+  "text": "Cada mañana abre la computadora con la intención de avanzar en su proyecto más importante."
+ },
+ {
+  "i": 193,
+  "start": 527.722,
+  "end": 529.506,
+  "text": "Pero primero revisa el correo."
+ },
+ {
+  "i": 194,
+  "start": 529.994,
+  "end": 531.28,
+  "text": "Luego un mensaje."
+ },
+ {
+  "i": 195,
+  "start": 531.754,
+  "end": 534.529,
+  "text": "Luego, \"solo un minuto\", las redes."
+ },
+ {
+  "i": 196,
+  "start": 535.05,
+  "end": 537.825,
+  "text": "Al mediodía siente que el día ya se le escapó."
+ },
+ {
+  "i": 197,
+  "start": 538.41,
+  "end": 544.705,
+  "text": "Una semana decide hacer algo pequeño: dejar el teléfono en la cocina durante sus primeras dos horas de trabajo."
+ },
+ {
+  "i": 198,
+  "start": 545.354,
+  "end": 548.184,
+  "text": "El primer día, lo extraña cada pocos minutos."
+ },
+ {
+  "i": 199,
+  "start": 548.65,
+  "end": 550.457,
+  "text": "Se levanta dos veces a buscarlo."
+ },
+ {
+  "i": 200,
+  "start": 551.05,
+  "end": 553.159,
+  "text": "El tercer día, la ansiedad baja."
+ },
+ {
+  "i": 201,
+  "start": 553.674,
+  "end": 558.218,
+  "text": "Al final de la semana, termina en una mañana lo que antes le tomaba tres días."
+ },
+ {
+  "i": 202,
+  "start": 558.762,
+  "end": 559.844,
+  "text": "No cambió su talento."
+ },
+ {
+  "i": 203,
+  "start": 560.266,
+  "end": 561.642,
+  "text": "No cambió su inteligencia."
+ },
+ {
+  "i": 204,
+  "start": 562.09,
+  "end": 563.359,
+  "text": "Solo cambió su entorno."
+ },
+ {
+  "i": 205,
+  "start": 563.914,
+  "end": 565.236,
+  "text": "Y su cerebro respondió."
+ },
+ {
+  "i": 206,
+  "start": 566.794,
+  "end": 568.45,
+  "text": "Ahora quiero ser honesto contigo."
+ },
+ {
+  "i": 207,
+  "start": 569.002,
+  "end": 571.242,
+  "text": "Los primeros días no se sentirán bien."
+ },
+ {
+  "i": 208,
+  "start": 571.818,
+  "end": 572.927,
+  "text": "Te sentirás inquieto."
+ },
+ {
+  "i": 209,
+  "start": 573.29,
+  "end": 573.905,
+  "text": "Aburrido."
+ },
+ {
+  "i": 210,
+  "start": 574.442,
+  "end": 575.737,
+  "text": "Quizás un poco irritable."
+ },
+ {
+  "i": 211,
+  "start": 576.234,
+  "end": 578.046,
+  "text": "Eso no significa que estés fallando."
+ },
+ {
+  "i": 212,
+  "start": 578.506,
+  "end": 581.098,
+  "text": "Significa que la balanza está volviendo a su lugar."
+ },
+ {
+  "i": 213,
+  "start": 581.61,
+  "end": 584.831,
+  "text": "Y luego, poco a poco, algo empieza a cambiar."
+ },
+ {
+  "i": 214,
+  "start": 585.386,
+  "end": 588.73,
+  "text": "Un día notas que leíste diez páginas sin interrumpirte."
+ },
+ {
+  "i": 215,
+  "start": 589.29,
+  "end": 592.131,
+  "text": "Otro día terminas una tarea en la mitad del tiempo."
+ },
+ {
+  "i": 216,
+  "start": 592.714,
+  "end": 599.398,
+  "text": "Una tarde caminas sin audífonos y, por primera vez en mucho tiempo, escuchas tus propios pensamientos."
+ },
+ {
+  "i": 217,
+  "start": 599.914,
+  "end": 602.34,
+  "text": "Las cosas simples vuelven a tener sabor."
+ },
+ {
+  "i": 218,
+  "start": 602.34,
+  "end": 605.702,
+  "text": "Y entiendes que la claridad no se había ido."
+ },
+ {
+  "i": 219,
+  "start": 605.702,
+  "end": 608.264,
+  "text": "Solo estaba enterrada debajo del ruido."
+ },
+ {
+  "i": 220,
+  "start": 608.874,
+  "end": 612.01,
+  "text": "Así que la próxima vez que tu mano busque el teléfono sin razón…"
+ },
+ {
+  "i": 221,
+  "start": 612.01,
+  "end": 613.668,
+  "text": "detente un segundo."
+ },
+ {
+  "i": 222,
+  "start": 614.378,
+  "end": 614.845,
+  "text": "Respira."
+ },
+ {
+  "i": 223,
+  "start": 614.845,
+  "end": 618.253,
+  "text": "Y recuerda esto: Tú no eres tu distracción."
+ },
+ {
+  "i": 224,
+  "start": 618.762,
+  "end": 620.71,
+  "text": "Tú no eres tu falta de concentración."
+ },
+ {
+  "i": 225,
+  "start": 620.71,
+  "end": 623.021,
+  "text": "Tu mente no está rota."
+ },
+ {
+  "i": 226,
+  "start": 623.021,
+  "end": 623.977,
+  "text": "Nunca lo estuvo."
+ },
+ {
+  "i": 227,
+  "start": 624.394,
+  "end": 627.464,
+  "text": "Solo ha estado gritando en una habitación llena de ruido."
+ },
+ {
+  "i": 228,
+  "start": 628.938,
+  "end": 634.075,
+  "text": "Mañana, cuando despiertes, no toques el teléfono durante los primeros treinta minutos."
+ },
+ {
+  "i": 229,
+  "start": 634.634,
+  "end": 636.333,
+  "text": "Deja que tu mente arranque sola."
+ },
+ {
+  "i": 230,
+  "start": 636.714,
+  "end": 637.644,
+  "text": "Sin titulares."
+ },
+ {
+  "i": 231,
+  "start": 637.93,
+  "end": 638.862,
+  "text": "Sin mensajes."
+ },
+ {
+  "i": 232,
+  "start": 639.21,
+  "end": 640.489,
+  "text": "Sin la opinión de nadie."
+ },
+ {
+  "i": 233,
+  "start": 640.842,
+  "end": 641.425,
+  "text": "Solo tú."
+ },
+ {
+  "i": 234,
+  "start": 641.425,
+  "end": 642.846,
+  "text": "Baja el volumen."
+ },
+ {
+  "i": 235,
+  "start": 642.846,
+  "end": 644.489,
+  "text": "Recupera el silencio."
+ },
+ {
+  "i": 236,
+  "start": 645.034,
+  "end": 649.313,
+  "text": "Y en ese silencio vas a encontrar algo que llevas mucho tiempo sin sentir."
+ },
+ {
+  "i": 237,
+  "start": 649.313,
+  "end": 650.966,
+  "text": "Tu propia atención."
+ },
+ {
+  "i": 238,
+  "start": 650.966,
+  "end": 652.564,
+  "text": "Tu propia dirección."
+ },
+ {
+  "i": 239,
+  "start": 652.564,
+  "end": 653.96,
+  "text": "Tu propia vida."
+ },
+ {
+  "i": 240,
+  "start": 653.96,
+  "end": 656.714,
+  "text": "Empieza hoy."
+ },
+ {
+  "i": 241,
+  "start": 656.714,
+  "end": 658.18,
+  "text": "Empieza con un solo minuto."
+ },
+ {
+  "i": 242,
+  "start": 658.18,
+  "end": 660.498,
+  "text": "Porque cada minuto que recuperas…"
+ },
+ {
+  "i": 243,
+  "start": 660.938,
+  "end": 662.949,
+  "text": "es un minuto que vuelve a ser tuyo."
+ }
+]

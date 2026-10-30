@@ -1,0 +1,4420 @@
+{
+ "title": "Tu cerebro no está roto, está sobreestimulado",
+ "duration": 664.5,
+ "shots": [
+  {
+   "id": "h01",
+   "start": 0.0,
+   "line": "Tomas el teléfono",
+   "bars": null,
+   "in": {
+    "type": "fade",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.9,
+     "name": "tick",
+     "gain": -14
+    }
+   ],
+   "scene": "grab",
+   "params": {
+    "mode": "grab",
+    "reachAt": 0.1,
+    "tpl": "grab"
+   },
+   "end": 1.68
+  },
+  {
+   "id": "h02",
+   "start": 1.68,
+   "line": "No sabes por",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "face",
+   "params": {
+    "ex": [
+     [
+      0,
+      "confused"
+     ],
+     [
+      "nadie",
+      "thinking"
+     ]
+    ],
+    "look": [
+     0.4,
+     0.5
+    ],
+    "tpl": "face"
+   },
+   "end": 6.93
+  },
+  {
+   "id": "h03",
+   "start": 6.93,
+   "line": "Simplemente",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "grab",
+   "params": {
+    "mode": "grab",
+    "reachAt": 0.6,
+    "tpl": "grab"
+   },
+   "end": 9.91
+  },
+  {
+   "id": "h04",
+   "start": 9.91,
+   "line": "Desbloqueas",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "scene": "screen",
+   "params": {
+    "mode": "unlock",
+    "at": "desbloqueas",
+    "tpl": "screen"
+   },
+   "end": 12.18
+  },
+  {
+   "id": "h05",
+   "start": 12.18,
+   "line": "Un video",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "swish",
+     "gain": -14
+    },
+    {
+     "at": 0.9,
+     "name": "swish",
+     "gain": -14
+    },
+    {
+     "at": 1.6,
+     "name": "swish",
+     "gain": -14
+    }
+   ],
+   "scene": "screen",
+   "params": {
+    "mode": "cards",
+    "cards": [
+     [
+      "video",
+      0
+     ],
+     [
+      "otro",
+      1
+     ],
+     [
+      "más",
+      2
+     ]
+    ],
+    "tpl": "screen"
+   },
+   "end": 14.52
+  },
+  {
+   "id": "h06",
+   "start": 14.52,
+   "line": "Y cuando por fin",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.6,
+     "name": "clock",
+     "gain": -12
+    }
+   ],
+   "scene": "room",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   },
+   "params": {
+    "ex": [
+     [
+      0,
+      "neutral"
+     ],
+     [
+      "vista",
+      "shocked"
+     ]
+    ],
+    "look": [
+     1,
+     -0.2
+    ],
+    "badge": "+40 MIN",
+    "badgeAt": "cuarenta",
+    "tpl": "room"
+   },
+   "end": 20.44
+  },
+  {
+   "id": "h07",
+   "start": 20.44,
+   "line": "Te sientas",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [],
+   "scene": "desk",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   },
+   "params": {
+    "mood": "golden",
+    "ex": [
+     [
+      0,
+      "determined"
+     ]
+    ],
+    "tpl": "desk"
+   },
+   "end": 22.88
+  },
+  {
+   "id": "h08",
+   "start": 22.88,
+   "line": "Y tu mente",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "desk",
+   "params": {
+    "mood": "golden",
+    "expr": "sleepy",
+    "pose": "think",
+    "think": 0.3,
+    "tpl": "desk"
+   },
+   "end": 25.75
+  },
+  {
+   "id": "h09",
+   "start": 25.75,
+   "line": "Abres una",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 1.6,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "scene": "laptop",
+   "params": {
+    "mood": "golden",
+    "tabs": [
+     [
+      0,
+      "DOCUMENTO",
+      0
+     ],
+     [
+      "pestaña",
+      "VIDEO",
+      1
+     ],
+     [
+      "otra",
+      "TIENDA",
+      2
+     ],
+     [
+      "revisas",
+      "CORREO",
+      3
+     ],
+     [
+      "revisar",
+      "CORREO",
+      3
+     ]
+    ],
+    "tpl": "laptop"
+   },
+   "end": 30.84
+  },
+  {
+   "id": "h10",
+   "start": 30.84,
+   "line": "Y al final",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "desk",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   },
+   "params": {
+    "mood": "dusk",
+    "pose": "facepalm",
+    "expr": "sad",
+    "clock": "19:47",
+    "tpl": "desk"
+   },
+   "end": 37.14
+  },
+  {
+   "id": "h11",
+   "start": 37.14,
+   "line": "Algo está mal",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "face",
+   "params": {
+    "bg": "room",
+    "phone": false,
+    "expr": "sad",
+    "text": "\"ALGO ESTÁ MAL CONMIGO\"",
+    "textColor": "cream",
+    "textAt": "algo",
+    "tpl": "face"
+   },
+   "end": 39.96
+  },
+  {
+   "id": "h12",
+   "start": 39.96,
+   "line": "Quiero que",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "face",
+   "params": {
+    "bg": "room",
+    "phone": false,
+    "ex": [
+     [
+      0,
+      "sad"
+     ],
+     [
+      "atención",
+      "surprised"
+     ]
+    ],
+    "look": [
+     0,
+     0
+    ],
+    "tpl": "face"
+   },
+   "end": 42.42
+  },
+  {
+   "id": "h13",
+   "start": 42.42,
+   "line": "No hay nada",
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "scene": "brainState",
+   "params": {
+    "mode": "intact",
+    "label": "NO ESTÁ ROTO",
+    "labelAt": "roto",
+    "labelColor": "gold",
+    "tpl": "brainState"
+   },
+   "end": 46.13
+  },
+  {
+   "id": "h14",
+   "start": 46.13,
+   "line": "Está sobreestimulado",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "glitch",
+     "gain": -8
+    }
+   ],
+   "scene": "brainState",
+   "params": {
+    "mode": "overload",
+    "label": "SOBREESTIMULADO",
+    "labelColor": "accent",
+    "labelAt": 0.1,
+    "tpl": "brainState"
+   },
+   "end": 48.05
+  },
+  {
+   "id": "h15",
+   "start": 48.05,
+   "line": "Y en los próximos",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "impact",
+     "gain": -8
+    }
+   ],
+   "scene": "chapter",
+   "params": {
+    "lines": [
+     "TU CEREBRO NO ESTÁ ROTO",
+     "ESTÁ SOBREESTIMULADO"
+    ],
+    "bg": "room",
+    "tpl": "chapter"
+   },
+   "end": 55.09
+  },
+  {
+   "id": "c1",
+   "start": 55.09,
+   "line": "El cerebro que",
+   "bars": "scope",
+   "in": {
+    "type": "dip",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "chapter",
+   "amb": {
+    "name": "wind",
+    "gain": -26
+   },
+   "params": {
+    "lines": [
+     "PARTE 1",
+     "EL CEREBRO QUE HEREDASTE"
+    ],
+    "bg": "sabana",
+    "tpl": "chapter"
+   },
+   "end": 57.62
+  },
+  {
+   "id": "b02",
+   "start": 57.62,
+   "line": "Empecemos",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "scene": "bedroom night wide: TU on bed lit by phone, slow push",
+   "set": "dormitorio",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   },
+   "end": 59.51
+  },
+  {
+   "id": "b03",
+   "start": 59.51,
+   "line": "Tu cerebro fue",
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "blip",
+     "gain": -14
+    },
+    {
+     "at": 2.0,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "scene": "blueprint: brain line-art draws on, dotted link to a tiny savanna sun icon",
+   "set": "blueprint",
+   "end": 63.0
+  },
+  {
+   "id": "b04",
+   "start": 63.0,
+   "line": "Durante cientos",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "whoosh",
+     "gain": -16
+    }
+   ],
+   "scene": "3D orbit: tribe around a campfire in the savanna at dusk",
+   "set": "sabana",
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   },
+   "end": 67.27
+  },
+  {
+   "id": "b05",
+   "start": 67.27,
+   "line": "La comida",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "scene": "wide: ancestor looks at a bare bush, COMIDA meter almost empty",
+   "set": "sabana",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   },
+   "end": 69.65
+  },
+  {
+   "id": "b06",
+   "start": 69.65,
+   "line": "La información",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "scene": "two-shot by the fire, silent horizon, INFORMACIÓN meter low",
+   "set": "sabana",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   },
+   "end": 71.73
+  },
+  {
+   "id": "b07",
+   "start": 71.73,
+   "line": "Las novedades",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "scene": "bigFace ancestor bored/sleepy, NOVEDADES meter low",
+   "set": "sabana",
+   "amb": {
+    "name": "wind",
+    "gain": -26
+   },
+   "end": 74.13
+  },
+  {
+   "id": "b08",
+   "start": 74.13,
+   "line": "Encontrar",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "shimmer",
+     "gain": -10
+    },
+    {
+     "at": 2.4,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "scene": "ancestor discovers acacia with glowing fruit, cheers, sparkles",
+   "set": "sabana",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   },
+   "end": 77.52
+  },
+  {
+   "id": "b09",
+   "start": 77.52,
+   "line": "Escuchar",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "footstep",
+     "gain": -14
+    },
+    {
+     "at": 0.6,
+     "name": "footstep",
+     "gain": -14
+    }
+   ],
+   "scene": "messenger with green headband runs in, two ancestors turn surprised",
+   "set": "sabana",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   },
+   "end": 80.1
+  },
+  {
+   "id": "b10",
+   "start": 80.1,
+   "line": "Y para que",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "ancestor walks across the savanna scanning the horizon, tracking shot",
+   "set": "sabana",
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   },
+   "end": 83.22
+  },
+  {
+   "id": "b11",
+   "start": 83.22,
+   "line": "tu cerebro desarrolló",
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "powerup",
+     "gain": -12
+    }
+   ],
+   "scene": "blueprint brain: reward pathway lights up gold node by node",
+   "set": "blueprint",
+   "end": 86.1
+  },
+  {
+   "id": "b12",
+   "start": 86.1,
+   "line": "Ese sistema",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ],
+   "scene": "blueprint synapse macro: gold particles jump the gap",
+   "set": "blueprint",
+   "end": 88.6
+  },
+  {
+   "id": "b13",
+   "start": 88.6,
+   "line": "Se llama",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "stinger",
+     "gain": -8
+    }
+   ],
+   "scene": "DOPAMINA title with molecule rings drawing on, gold glow",
+   "set": "blueprint",
+   "end": 91.28
+  },
+  {
+   "id": "b14",
+   "start": 91.28,
+   "line": "Durante mucho",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 3.6,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "scene": "lab warm: Berridge points at board PLACER?",
+   "set": "laboratorio",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   },
+   "end": 95.8
+  },
+  {
+   "id": "b15",
+   "start": 95.8,
+   "line": "Pero la ciencia",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.4,
+     "name": "ding",
+     "gain": -14
+    }
+   ],
+   "scene": "bigFace Berridge thinking -> surprised, lab blurred",
+   "set": "laboratorio",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   },
+   "end": 99.44
+  },
+  {
+   "id": "b16",
+   "start": 99.44,
+   "line": "El neurocientífico",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.3,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "scene": "medium: Berridge at the bench with notes, name callout",
+   "set": "laboratorio",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   },
+   "end": 101.41
+  },
+  {
+   "id": "b17",
+   "start": 101.41,
+   "line": "distinguió",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.7,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 2.5,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "scene": "blueprint split: QUERER (reaching figure) | DISFRUTAR (relaxed figure)",
+   "set": "blueprint",
+   "end": 105.56
+  },
+  {
+   "id": "b18",
+   "start": 105.56,
+   "line": "Y descubrió",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "counter",
+     "gain": -18
+    }
+   ],
+   "scene": "same board: gold sparks flow into QUERER, compare bars",
+   "set": "blueprint",
+   "end": 109.3
+  },
+  {
+   "id": "b19",
+   "start": 109.3,
+   "line": "Al deseo",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "insert: ancestor's hand reaching for a glowing fruit",
+   "set": "sabana",
+   "amb": {
+    "name": "wind",
+    "gain": -26
+   },
+   "end": 110.29
+  },
+  {
+   "id": "b20",
+   "start": 110.29,
+   "line": "A la anticipación",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "heartbeat",
+     "gain": -14
+    }
+   ],
+   "scene": "bigFace TU lit by phone, eyes wide, waiting",
+   "set": "dormitorio",
+   "end": 111.96
+  },
+  {
+   "id": "b21",
+   "start": 111.96,
+   "line": "La dopamina no",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.4,
+     "name": "hit",
+     "gain": -14
+    }
+   ],
+   "scene": "blueprint: reward icon, spark stays off it, X mark",
+   "set": "blueprint",
+   "end": 114.42
+  },
+  {
+   "id": "b22",
+   "start": 114.42,
+   "line": "Es la promesa",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "whoosh",
+     "gain": -14
+    }
+   ],
+   "scene": "spark races ahead along a dotted path toward the reward: LA PROMESA",
+   "set": "blueprint",
+   "end": 116.72
+  },
+  {
+   "id": "b23",
+   "start": 116.72,
+   "line": "Es la voz",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.8,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "scene": "TU on bed scrolling, whisper rings and bubble SIGUE BUSCANDO",
+   "set": "dormitorio",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   },
+   "end": 119.6
+  },
+  {
+   "id": "b24",
+   "start": 119.6,
+   "line": "Algo bueno",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.2,
+     "name": "phonebuzz",
+     "gain": -12
+    }
+   ],
+   "scene": "insert phone screen: feed scrolls, spinner, notification dot pulses",
+   "set": "dormitorio",
+   "end": 122.32
+  },
+  {
+   "id": "b25",
+   "start": 122.32,
+   "line": "Wolfram",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.9,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "scene": "cool lab: Schultz at a monitor, name callout",
+   "set": "laboratorio",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   },
+   "end": 124.82
+  },
+  {
+   "id": "b26",
+   "start": 124.82,
+   "line": "observó",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "tick",
+     "gain": -18
+    }
+   ],
+   "scene": "OTS Schultz shoulder fg, monitor shows spike train",
+   "set": "laboratorio",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   },
+   "end": 127.92
+  },
+  {
+   "id": "b27",
+   "start": 127.92,
+   "line": "reaccionan",
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 1.9,
+     "name": "impact",
+     "gain": -8
+    }
+   ],
+   "scene": "blueprint firing chart: flat, then huge spike on INESPERADO",
+   "set": "blueprint",
+   "end": 131.06
+  },
+  {
+   "id": "b28",
+   "start": 131.06,
+   "line": "Cuando una recompensa",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "riser",
+     "gain": -14
+    },
+    {
+     "at": 3.75,
+     "name": "powerup",
+     "gain": -10
+    }
+   ],
+   "scene": "chart ESPERADO line vs reward bar overshooting; brain lights up gold",
+   "set": "blueprint",
+   "end": 135.8
+  },
+  {
+   "id": "b29",
+   "start": 135.8,
+   "line": "Cuando ya sabes",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "bedroom: TU scrolls flat-faced, small flat line in corner, brain dims",
+   "set": "dormitorio",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   },
+   "end": 139.6
+  },
+  {
+   "id": "b30",
+   "start": 139.6,
+   "line": "En otras",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "bedroom wide from the window, slow push",
+   "set": "dormitorio",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   },
+   "end": 141.11
+  },
+  {
+   "id": "b31",
+   "start": 141.11,
+   "line": "tu cerebro es adicto",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "freeze",
+     "gain": -6
+    }
+   ],
+   "scene": "FREEZE: TU mid-scroll, notification icons hang in the air, ? marks",
+   "set": "dormitorio",
+   "end": 143.7
+  },
+  {
+   "id": "b32",
+   "start": 143.7,
+   "line": "Y eso en la",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "scene": "savanna golden: ancestor eats fruit under the tree, sun behind",
+   "set": "sabana",
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   },
+   "end": 146.93
+  },
+  {
+   "id": "b33",
+   "start": 146.93,
+   "line": "Hoy",
+   "bars": "scope",
+   "in": {
+    "type": "dip",
+    "dur": 0.6
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "riser",
+     "gain": -14
+    },
+    {
+     "at": 2.6,
+     "name": "whoosh",
+     "gain": -12
+    }
+   ],
+   "scene": "dark room: a glowing doorway, notification icons stream through toward TU",
+   "set": "dormitorio",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   },
+   "end": 151.35
+  },
+  {
+   "id": "c2",
+   "start": 151.35,
+   "line": "La máquina de",
+   "bars": "scope",
+   "in": {
+    "type": "dip",
+    "dur": 0.6
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "scene": "chapter",
+   "params": {
+    "lines": [
+     "PARTE 2",
+     "LA MÁQUINA DE LA SORPRESA"
+    ],
+    "bg": "room",
+    "tpl": "chapter"
+   },
+   "end": 153.81
+  },
+  {
+   "id": "m01",
+   "start": 153.81,
+   "line": "Ahora piensa",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "room",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   },
+   "params": {
+    "expr": "thinking",
+    "look": [
+     0.6,
+     0.7
+    ],
+    "tpl": "room"
+   },
+   "end": 155.73
+  },
+  {
+   "id": "m02",
+   "start": 155.73,
+   "line": "Cada vez que lo desbloqueas",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "scene": "screen",
+   "params": {
+    "mode": "unlock",
+    "at": "desbloqueas",
+    "q": true,
+    "tpl": "screen"
+   },
+   "end": 158.79
+  },
+  {
+   "id": "m03",
+   "start": 158.79,
+   "line": "Quizás un mensaje",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "phonebuzz",
+     "gain": -12
+    }
+   ],
+   "scene": "screen",
+   "params": {
+    "mode": "notif",
+    "at": 0.2,
+    "tpl": "screen"
+   },
+   "end": 161.3
+  },
+  {
+   "id": "m04",
+   "start": 161.3,
+   "line": "Quizás nada",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "screen",
+   "params": {
+    "mode": "empty",
+    "tpl": "screen"
+   },
+   "end": 162.45
+  },
+  {
+   "id": "m05",
+   "start": 162.45,
+   "line": "Quizás un video",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "face",
+   "params": {
+    "ex": [
+     [
+      0,
+      "joy"
+     ]
+    ],
+    "look": [
+     0.3,
+     0.6
+    ],
+    "tpl": "face"
+   },
+   "end": 164.56
+  },
+  {
+   "id": "m06",
+   "start": 164.56,
+   "line": "Quizás una notificación",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "phonebuzz",
+     "gain": -14
+    }
+   ],
+   "scene": "face",
+   "params": {
+    "ex": [
+     [
+      0,
+      "neutral"
+     ],
+     [
+      "inquieta",
+      "worried"
+     ]
+    ],
+    "look": [
+     0.3,
+     0.6
+    ],
+    "tpl": "face"
+   },
+   "end": 167.12
+  },
+  {
+   "id": "m07",
+   "start": 167.12,
+   "line": "Esa incertidumbre",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "scene": "bigText",
+   "params": {
+    "lines": [
+     [
+      "incertidumbre",
+      "INCERTIDUMBRE",
+      "gold"
+     ],
+     [
+      "accidente",
+      "NO ES UN ACCIDENTE",
+      "accent",
+      60
+     ]
+    ],
+    "tpl": "bigText"
+   },
+   "end": 170.61
+  },
+  {
+   "id": "m08",
+   "start": 170.61,
+   "line": "En el siglo",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [],
+   "scene": "lab",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   },
+   "params": {
+    "who": "SKINNER",
+    "name": "B. F. SKINNER",
+    "role": "PSICÓLOGO · SIGLO XX",
+    "nameAt": "skinner",
+    "tpl": "lab"
+   },
+   "end": 175.77
+  },
+  {
+   "id": "m09",
+   "start": 175.77,
+   "line": "Y encontró",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.7,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 2.3,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 5.2,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "scene": "skinner",
+   "params": {
+    "aveces": "veces",
+    "tpl": "skinner"
+   },
+   "end": 182.93
+  },
+  {
+   "id": "m10",
+   "start": 182.93,
+   "line": "el comportamiento",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "persist",
+   "params": {
+    "tpl": "persist"
+   },
+   "end": 188.37
+  },
+  {
+   "id": "m11",
+   "start": 188.37,
+   "line": "Es el mismo principio",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "counter",
+     "gain": -16
+    }
+   ],
+   "scene": "slot",
+   "params": {
+    "tpl": "slot"
+   },
+   "end": 193.01
+  },
+  {
+   "id": "m12",
+   "start": 193.01,
+   "line": "Se llama refuerzo",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "impact",
+     "gain": -8
+    }
+   ],
+   "scene": "bigText",
+   "params": {
+    "lines": [
+     [
+      "refuerzo",
+      "REFUERZO",
+      "gold"
+     ],
+     [
+      "intermitente",
+      "INTERMITENTE",
+      "gold"
+     ]
+    ],
+    "tpl": "bigText"
+   },
+   "end": 195.67
+  },
+  {
+   "id": "m13",
+   "start": 195.67,
+   "line": "Y ahora vive",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "counter",
+     "gain": -16
+    }
+   ],
+   "scene": "screen",
+   "params": {
+    "mode": "slot",
+    "at": 0.1,
+    "label": "EN TU BOLSILLO",
+    "labelAt": "bolsillo",
+    "tpl": "screen"
+   },
+   "end": 198.1
+  },
+  {
+   "id": "m14",
+   "start": 198.1,
+   "line": "Deslizar hacia",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "swish",
+     "gain": -14
+    }
+   ],
+   "scene": "screen",
+   "params": {
+    "mode": "pull",
+    "tpl": "screen"
+   },
+   "end": 200.44
+  },
+  {
+   "id": "m15",
+   "start": 200.44,
+   "line": "El siguiente video",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "tick",
+     "gain": -16
+    }
+   ],
+   "scene": "screen",
+   "params": {
+    "mode": "autoplay",
+    "tpl": "screen"
+   },
+   "end": 202.71
+  },
+  {
+   "id": "m16",
+   "start": 202.71,
+   "line": "El contador",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "counter",
+     "gain": -16
+    }
+   ],
+   "scene": "screen",
+   "params": {
+    "mode": "likes",
+    "tpl": "screen"
+   },
+   "end": 205.65
+  },
+  {
+   "id": "m17",
+   "start": 205.65,
+   "line": "Cada gesto",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "bigText",
+   "params": {
+    "lines": [
+     [
+      "gesto",
+      "CADA GESTO",
+      "cream"
+     ],
+     [
+      "palanca",
+      "= UNA PALANCA",
+      "gold"
+     ]
+    ],
+    "tpl": "bigText"
+   },
+   "end": 209.88
+  },
+  {
+   "id": "m18",
+   "start": 209.88,
+   "line": "No es que tú",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "face",
+   "params": {
+    "phone": false,
+    "ex": [
+     [
+      0,
+      "sad"
+     ],
+     [
+      "débil",
+      "neutral"
+     ]
+    ],
+    "tpl": "face"
+   },
+   "end": 211.6
+  },
+  {
+   "id": "m19",
+   "start": 211.6,
+   "line": "Es que compites",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 4.5,
+     "name": "counter",
+     "gain": -16
+    }
+   ],
+   "scene": "vs",
+   "params": {
+    "tpl": "vs"
+   },
+   "end": 221.97
+  },
+  {
+   "id": "m20",
+   "start": 221.97,
+   "line": "Tú tienes fuerza",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "versus",
+   "params": {
+    "tpl": "versus"
+   },
+   "end": 225.84
+  },
+  {
+   "id": "m21",
+   "start": 225.84,
+   "line": "Esa no es una",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "bigText",
+   "params": {
+    "lines": [
+     [
+      "pelea",
+      "NO ES UNA",
+      "cream"
+     ],
+     [
+      "justa",
+      "PELEA JUSTA",
+      "accent"
+     ]
+    ],
+    "tpl": "bigText"
+   },
+   "end": 227.96
+  },
+  {
+   "id": "m22",
+   "start": 227.96,
+   "line": "Y entenderlo",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.4,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ],
+   "scene": "face",
+   "params": {
+    "phone": false,
+    "ex": [
+     [
+      0,
+      "neutral"
+     ],
+     [
+      "paso",
+      "smile"
+     ]
+    ],
+    "sparkle": "culparte",
+    "tpl": "face"
+   },
+   "end": 232.08
+  },
+  {
+   "id": "c3",
+   "start": 232.08,
+   "line": "Lo que esto le",
+   "bars": "scope",
+   "in": {
+    "type": "dip",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "chapter",
+   "params": {
+    "lines": [
+     "PARTE 3",
+     "LO QUE ESTO LE HACE A TU ATENCIÓN"
+    ],
+    "bg": "room",
+    "tpl": "chapter"
+   },
+   "end": 234.45
+  },
+  {
+   "id": "a01",
+   "start": 234.45,
+   "line": "Pero hay algo",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "room",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   },
+   "params": {
+    "expr": "sleepy",
+    "z0": 1.0,
+    "z1": 1.1,
+    "tpl": "room"
+   },
+   "end": 236.98
+  },
+  {
+   "id": "a02",
+   "start": 236.98,
+   "line": "La psiquiatra",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [],
+   "scene": "lab",
+   "params": {
+    "who": "LEMBKE",
+    "name": "ANNA LEMBKE",
+    "role": "PSIQUIATRA · STANFORD",
+    "nameAt": "anna",
+    "tpl": "lab"
+   },
+   "end": 240.44
+  },
+  {
+   "id": "a03",
+   "start": 240.44,
+   "line": "describe el sistema",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "balance",
+   "params": {
+    "mode": "level",
+    "tpl": "balance"
+   },
+   "end": 244.69
+  },
+  {
+   "id": "a04",
+   "start": 244.69,
+   "line": "Cuando recibes",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "scene": "balance",
+   "params": {
+    "mode": "tilt",
+    "at": "placentero",
+    "tpl": "balance"
+   },
+   "end": 248.79
+  },
+  {
+   "id": "a05",
+   "start": 248.79,
+   "line": "Y tu cerebro que busca",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.5,
+     "name": "whoosh",
+     "gain": -14
+    }
+   ],
+   "scene": "balance",
+   "params": {
+    "mode": "push",
+    "at": "empuja",
+    "tpl": "balance"
+   },
+   "end": 254.71
+  },
+  {
+   "id": "a06",
+   "start": 254.71,
+   "line": "Si eso ocurre",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "balance",
+   "params": {
+    "mode": "reset",
+    "tpl": "balance"
+   },
+   "end": 257.81
+  },
+  {
+   "id": "a07",
+   "start": 257.81,
+   "line": "Pero si ocurre",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "counter",
+     "gain": -16
+    }
+   ],
+   "scene": "balance",
+   "params": {
+    "mode": "flood",
+    "tpl": "balance"
+   },
+   "end": 261.33
+  },
+  {
+   "id": "a08",
+   "start": 261.33,
+   "line": "tu cerebro empieza a compensar",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "balance",
+   "params": {
+    "mode": "stuck",
+    "at": "compensar",
+    "tpl": "balance"
+   },
+   "end": 265.75
+  },
+  {
+   "id": "a09",
+   "start": 265.75,
+   "line": "El resultado",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "face",
+   "params": {
+    "ex": [
+     [
+      0,
+      "neutral"
+     ],
+     [
+      "aburrido",
+      "sleepy"
+     ]
+    ],
+    "phone": false,
+    "tpl": "face"
+   },
+   "end": 269.59
+  },
+  {
+   "id": "a10",
+   "start": 269.59,
+   "line": "Leer un libro",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "room",
+   "params": {
+    "prop": "paper",
+    "expr": "sleepy",
+    "look": [
+     0.6,
+     0.8
+    ],
+    "mood": "golden",
+    "tpl": "room"
+   },
+   "end": 271.8
+  },
+  {
+   "id": "a11",
+   "start": 271.8,
+   "line": "Una conversación",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "table",
+   "amb": {
+    "name": "murmur",
+    "gain": -28
+   },
+   "params": {
+    "mode": "talk",
+    "ex": [
+     [
+      0,
+      "sleepy"
+     ]
+    ],
+    "tpl": "table"
+   },
+   "end": 274.84
+  },
+  {
+   "id": "a12",
+   "start": 274.84,
+   "line": "Trabajar en una sola",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "desk",
+   "params": {
+    "mood": "golden",
+    "pose": "facepalm",
+    "expr": "worried",
+    "tpl": "desk"
+   },
+   "end": 278.32
+  },
+  {
+   "id": "a13",
+   "start": 278.32,
+   "line": "No porque esas",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "balance",
+   "params": {
+    "mode": "reference",
+    "tpl": "balance"
+   },
+   "end": 284.24
+  },
+  {
+   "id": "a14",
+   "start": 284.24,
+   "line": "La investigadora Gloria",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [],
+   "scene": "lab",
+   "params": {
+    "who": "MARK",
+    "name": "GLORIA MARK",
+    "role": "UNIVERSIDAD DE CALIFORNIA, IRVINE",
+    "nameAt": "gloria",
+    "monitor": true,
+    "tpl": "lab"
+   },
+   "end": 288.31
+  },
+  {
+   "id": "a15",
+   "start": 288.31,
+   "line": "lleva unos veinte",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "clock",
+     "gain": -16
+    }
+   ],
+   "scene": "switcher",
+   "params": {
+    "tpl": "switcher"
+   },
+   "end": 295.8
+  },
+  {
+   "id": "a16",
+   "start": 295.8,
+   "line": "A principios",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.6,
+     "name": "counter",
+     "gain": -16
+    }
+   ],
+   "scene": "attn",
+   "params": {
+    "mode": 1,
+    "at1": "promedio",
+    "tpl": "attn"
+   },
+   "end": 300.53
+  },
+  {
+   "id": "a17",
+   "start": 300.53,
+   "line": "En sus mediciones",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.1,
+     "name": "impact",
+     "gain": -10
+    }
+   ],
+   "scene": "attn",
+   "params": {
+    "mode": 2,
+    "at2": "cuarenta",
+    "tpl": "attn"
+   },
+   "end": 304.5
+  },
+  {
+   "id": "a18",
+   "start": 304.5,
+   "line": "Cuarenta y siete segundos Y",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.3
+   },
+   "sfx": [],
+   "scene": "bigText",
+   "params": {
+    "lines": [
+     [
+      0.1,
+      "47 SEGUNDOS",
+      "accent",
+      140
+     ]
+    ],
+    "tpl": "bigText"
+   },
+   "end": 306.96
+  },
+  {
+   "id": "a19",
+   "start": 306.96,
+   "line": "Y lo más revelador",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "desk",
+   "params": {
+    "mood": "golden",
+    "poses": [
+     [
+      0,
+      "typing"
+     ],
+     [
+      "vienen",
+      "grabPhone"
+     ]
+    ],
+    "expr": "neutral",
+    "phone": true,
+    "tpl": "desk"
+   },
+   "end": 311.44
+  },
+  {
+   "id": "a20",
+   "start": 311.44,
+   "line": "Vienen de nosotros",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "face",
+   "params": {
+    "ex": [
+     [
+      0,
+      "smirk"
+     ],
+     [
+      "solos",
+      "confused"
+     ]
+    ],
+    "phone": true,
+    "tpl": "face"
+   },
+   "end": 314.61
+  },
+  {
+   "id": "a21",
+   "start": 314.61,
+   "line": "Y cada salto",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.6,
+     "name": "hit",
+     "gain": -14
+    }
+   ],
+   "scene": "residue",
+   "params": {
+    "mode": "jump",
+    "at": "costo",
+    "tpl": "residue"
+   },
+   "end": 318.64
+  },
+  {
+   "id": "a22",
+   "start": 318.64,
+   "line": "La investigadora Sophie",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [],
+   "scene": "lab",
+   "params": {
+    "who": "LEROY",
+    "name": "SOPHIE LEROY",
+    "role": "INVESTIGADORA",
+    "nameAt": "sophie",
+    "tpl": "lab"
+   },
+   "end": 321.75
+  },
+  {
+   "id": "a23",
+   "start": 321.75,
+   "line": "residuo de atención Cuando",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "bigText",
+   "params": {
+    "lines": [
+     [
+      "residuo",
+      "RESIDUO",
+      "gold"
+     ],
+     [
+      "atención",
+      "DE ATENCIÓN",
+      "gold"
+     ]
+    ],
+    "tpl": "bigText"
+   },
+   "end": 323.6
+  },
+  {
+   "id": "a24",
+   "start": 323.6,
+   "line": "Cuando pasas",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "residue",
+   "params": {
+    "mode": "stick",
+    "labelAt": "atrapada",
+    "tpl": "residue"
+   },
+   "end": 328.95
+  },
+  {
+   "id": "a25",
+   "start": 328.95,
+   "line": "Revisas un mensaje",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "phonebuzz",
+     "gain": -14
+    }
+   ],
+   "scene": "desk",
+   "params": {
+    "mood": "golden",
+    "poses": [
+     [
+      0,
+      "grabPhone"
+     ],
+     [
+      "vuelves",
+      "typing"
+     ]
+    ],
+    "phone": true,
+    "expr": "neutral",
+    "tpl": "desk"
+   },
+   "end": 331.96
+  },
+  {
+   "id": "a26",
+   "start": 331.96,
+   "line": "pero no vuelves",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "desk",
+   "params": {
+    "mood": "golden",
+    "expr": "confused",
+    "ghost": 0.2,
+    "phone": true,
+    "tpl": "desk"
+   },
+   "end": 336.76
+  },
+  {
+   "id": "a27",
+   "start": 336.76,
+   "line": "Ahora multiplica",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "counter",
+     "gain": -14
+    }
+   ],
+   "scene": "residue",
+   "params": {
+    "mode": "many",
+    "tpl": "residue"
+   },
+   "end": 339.8
+  },
+  {
+   "id": "a28",
+   "start": 339.8,
+   "line": "Por eso terminas",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "desk",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   },
+   "params": {
+    "mood": "night",
+    "pose": "sad",
+    "expr": "sleepy",
+    "clock": "23:10",
+    "lit": 0.5,
+    "tpl": "desk"
+   },
+   "end": 342.62
+  },
+  {
+   "id": "a29",
+   "start": 342.62,
+   "line": "No es que hayas",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "desk",
+   "params": {
+    "mood": "golden",
+    "expr": "determined",
+    "tpl": "desk"
+   },
+   "end": 345.14
+  },
+  {
+   "id": "a30",
+   "start": 345.14,
+   "line": "Es que te fragmentaste",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "glitch",
+     "gain": -10
+    }
+   ],
+   "scene": "fragment",
+   "params": {
+    "tpl": "fragment"
+   },
+   "end": 346.94
+  },
+  {
+   "id": "a31",
+   "start": 346.94,
+   "line": "Tu atención aprendió",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "residue",
+   "params": {
+    "mode": "jump",
+    "at": 99,
+    "tpl": "residue"
+   },
+   "end": 349.72
+  },
+  {
+   "id": "a32",
+   "start": 349.72,
+   "line": "Y lo que se aprende",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.4,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "scene": "brainState",
+   "params": {
+    "mode": "plastic",
+    "label": "SE PUEDE DESAPRENDER",
+    "labelAt": "desaprender",
+    "labelColor": "gold",
+    "tpl": "brainState"
+   },
+   "end": 352.95
+  },
+  {
+   "id": "c4",
+   "start": 352.95,
+   "line": "La buena noticia",
+   "bars": "scope",
+   "in": {
+    "type": "dip",
+    "dur": 0.6
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -10
+    }
+   ],
+   "scene": "chapter",
+   "params": {
+    "lines": [
+     "PARTE 4",
+     "LA BUENA NOTICIA"
+    ],
+    "bg": "dawn",
+    "tpl": "chapter"
+   },
+   "end": 354.68
+  },
+  {
+   "id": "n01",
+   "start": 354.68,
+   "line": "Aquí está la parte",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "face",
+   "params": {
+    "bg": "dawn",
+    "ex": [
+     [
+      0,
+      "thinking"
+     ],
+     [
+      "dice",
+      "surprised"
+     ]
+    ],
+    "phone": false,
+    "tpl": "face"
+   },
+   "end": 357.11
+  },
+  {
+   "id": "n02",
+   "start": 357.11,
+   "line": "Tu cerebro es plástico",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "brainState",
+   "params": {
+    "mode": "plastic",
+    "label": "PLÁSTICO",
+    "labelAt": "plástico",
+    "labelColor": "gold",
+    "tpl": "brainState"
+   },
+   "end": 362.77
+  },
+  {
+   "id": "n03",
+   "start": 362.77,
+   "line": "Si durante años",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "brainState",
+   "params": {
+    "mode": "fast",
+    "label": "RÁPIDOS · CONSTANTES · IMPREDECIBLES",
+    "labelAt": "rápidos",
+    "labelColor": "accent",
+    "tpl": "brainState"
+   },
+   "end": 369.14
+  },
+  {
+   "id": "n04",
+   "start": 369.14,
+   "line": "Y si empiezas",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "brainState",
+   "params": {
+    "mode": "slow",
+    "label": "TAMBIÉN SE AJUSTARÁ",
+    "labelAt": "también",
+    "labelColor": "gold",
+    "tpl": "brainState"
+   },
+   "end": 373.04
+  },
+  {
+   "id": "n05",
+   "start": 373.04,
+   "line": "No en un día",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "calendar",
+   "params": {
+    "days": 28,
+    "tpl": "calendar"
+   },
+   "end": 377.11
+  },
+  {
+   "id": "n06",
+   "start": 377.11,
+   "line": "No necesitas huir",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.4,
+     "name": "hit",
+     "gain": -14
+    }
+   ],
+   "scene": "nope",
+   "params": {
+    "mode": "mountain",
+    "xAt": "montaña",
+    "tpl": "nope"
+   },
+   "end": 379.57
+  },
+  {
+   "id": "n07",
+   "start": 379.57,
+   "line": "No necesitas tirar",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.6,
+     "name": "hit",
+     "gain": -14
+    }
+   ],
+   "scene": "nope",
+   "params": {
+    "mode": "river",
+    "xAt": "río",
+    "tpl": "nope"
+   },
+   "end": 382.2
+  },
+  {
+   "id": "n08",
+   "start": 382.2,
+   "line": "Necesitas bajar",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "volume",
+   "params": {
+    "text": "BAJAR EL VOLUMEN",
+    "at": "bajar",
+    "tpl": "volume"
+   },
+   "end": 384.5
+  },
+  {
+   "id": "n09",
+   "start": 384.5,
+   "line": "Déjame darte",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "bigText",
+   "params": {
+    "lines": [
+     [
+      "cinco",
+      "5 FORMAS",
+      "gold",
+      120
+     ]
+    ],
+    "bg": "dawn",
+    "tpl": "bigText"
+   },
+   "end": 387.67
+  },
+  {
+   "id": "c5",
+   "start": 387.67,
+   "line": "Cinco formas de recuperar",
+   "bars": "scope",
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "scene": "chapter",
+   "params": {
+    "lines": [
+     "PARTE 5",
+     "CINCO FORMAS DE RECUPERAR TU MENTE"
+    ],
+    "bg": "dawn",
+    "tpl": "chapter"
+   },
+   "end": 389.68
+  },
+  {
+   "id": "t1",
+   "start": 389.68,
+   "line": "Uno",
+   "bars": "none",
+   "in": {
+    "type": "flash",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "impact",
+     "gain": -10
+    }
+   ],
+   "scene": "tip",
+   "params": {
+    "n": 1,
+    "title": [
+     "AUMENTA",
+     "LA FRICCIÓN"
+    ],
+    "titleAt": "aumenta",
+    "tpl": "tip"
+   },
+   "end": 392.69
+  },
+  {
+   "id": "t1a",
+   "start": 392.69,
+   "line": "Las distracciones que ganan",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "friction",
+   "params": {
+    "at": "difíciles",
+    "tpl": "friction"
+   },
+   "end": 397.62
+  },
+  {
+   "id": "t1b",
+   "start": 397.62,
+   "line": "Saca las aplicaciones",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.4,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "scene": "screen",
+   "params": {
+    "mode": "apps",
+    "remove": [
+     1,
+     4,
+     6,
+     9,
+     14
+    ],
+    "at": "adictivas",
+    "mood": "golden",
+    "tpl": "screen"
+   },
+   "end": 401.4
+  },
+  {
+   "id": "t1c",
+   "start": 401.4,
+   "line": "Cierra sesión",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "scene": "screen",
+   "params": {
+    "mode": "logout",
+    "at": 0.2,
+    "mood": "golden",
+    "tpl": "screen"
+   },
+   "end": 403.76
+  },
+  {
+   "id": "t1d",
+   "start": 403.76,
+   "line": "Deja el teléfono en otra",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "desk",
+   "params": {
+    "mood": "golden",
+    "door": true,
+    "expr": "determined",
+    "tpl": "desk"
+   },
+   "end": 406.9
+  },
+  {
+   "id": "t1e",
+   "start": 406.9,
+   "line": "No dependas",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "plan",
+   "params": {
+    "tpl": "plan"
+   },
+   "end": 412.06
+  },
+  {
+   "id": "t2",
+   "start": 412.06,
+   "line": "Dos",
+   "bars": "none",
+   "in": {
+    "type": "flash",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "impact",
+     "gain": -10
+    }
+   ],
+   "scene": "tip",
+   "params": {
+    "n": 2,
+    "title": [
+     "REDUCE EL RUIDO",
+     "DE ENTRADA"
+    ],
+    "titleAt": "reduce",
+    "tpl": "tip"
+   },
+   "end": 415.64
+  },
+  {
+   "id": "t2a",
+   "start": 415.64,
+   "line": "Desactiva todas",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "tick",
+     "gain": -14
+    },
+    {
+     "at": 1.2,
+     "name": "tick",
+     "gain": -14
+    },
+    {
+     "at": 1.9,
+     "name": "tick",
+     "gain": -14
+    }
+   ],
+   "scene": "screen",
+   "params": {
+    "mode": "toggles",
+    "at": 0.5,
+    "mood": "golden",
+    "tpl": "screen"
+   },
+   "end": 421.01
+  },
+  {
+   "id": "t2b",
+   "start": 421.01,
+   "line": "Cada sonido",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "phonebuzz",
+     "gain": -14
+    }
+   ],
+   "scene": "screen",
+   "params": {
+    "mode": "badges",
+    "keys": [
+     [
+      "sonido",
+      4
+     ],
+     [
+      "vibración",
+      2
+     ],
+     [
+      "globo",
+      0
+     ],
+     [
+      "promesa",
+      1
+     ],
+     [
+      "arranca",
+      3
+     ]
+    ],
+    "label": "",
+    "mood": "golden",
+    "tpl": "screen"
+   },
+   "end": 429.08
+  },
+  {
+   "id": "t2c",
+   "start": 429.08,
+   "line": "Tú decides",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "face",
+   "params": {
+    "bg": "dawn",
+    "phone": false,
+    "ex": [
+     [
+      0,
+      "determined"
+     ]
+    ],
+    "text": "TÚ DECIDES",
+    "textAt": "decides",
+    "tpl": "face"
+   },
+   "end": 431.94
+  },
+  {
+   "id": "t3",
+   "start": 431.94,
+   "line": "Tres",
+   "bars": "none",
+   "in": {
+    "type": "flash",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "impact",
+     "gain": -10
+    }
+   ],
+   "scene": "tip",
+   "params": {
+    "n": 3,
+    "title": [
+     "PRACTICA",
+     "EL ABURRIMIENTO"
+    ],
+    "titleAt": "practica",
+    "tpl": "tip"
+   },
+   "end": 435.16
+  },
+  {
+   "id": "t3a",
+   "start": 435.16,
+   "line": "Suena extraño",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "face",
+   "params": {
+    "bg": "dawn",
+    "phone": false,
+    "ex": [
+     [
+      0,
+      "confused"
+     ],
+     [
+      "poderoso",
+      "smirk"
+     ]
+    ],
+    "tpl": "face"
+   },
+   "end": 437.81
+  },
+  {
+   "id": "t3b",
+   "start": 437.81,
+   "line": "Haz una fila",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "queue",
+   "amb": {
+    "name": "murmur",
+    "gain": -28
+   },
+   "params": {
+    "ex": [
+     [
+      0,
+      "neutral"
+     ]
+    ],
+    "tpl": "queue"
+   },
+   "end": 440.12
+  },
+  {
+   "id": "t3c",
+   "start": 440.12,
+   "line": "Camina diez",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "walk",
+   "amb": {
+    "name": "wind",
+    "gain": -26
+   },
+   "params": {
+    "badge": "10 MIN",
+    "tpl": "walk"
+   },
+   "end": 442.74
+  },
+  {
+   "id": "t3d",
+   "start": 442.74,
+   "line": "Come sin",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "table",
+   "params": {
+    "mode": "eat",
+    "mood": "interiorWarm",
+    "tpl": "table"
+   },
+   "end": 444.66
+  },
+  {
+   "id": "t3e",
+   "start": 444.66,
+   "line": "Al principio será",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "face",
+   "params": {
+    "bg": "dawn",
+    "phone": false,
+    "ex": [
+     [
+      0,
+      "nervous"
+     ]
+    ],
+    "sweat": true,
+    "tpl": "face"
+   },
+   "end": 446.52
+  },
+  {
+   "id": "t3f",
+   "start": 446.52,
+   "line": "Sentirás el impulso",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "heartbeat",
+     "gain": -12
+    }
+   ],
+   "scene": "grab",
+   "params": {
+    "mode": "twitch",
+    "mood": "golden",
+    "tpl": "grab"
+   },
+   "end": 449.66
+  },
+  {
+   "id": "t3g",
+   "start": 449.66,
+   "line": "Obsérvala",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "face",
+   "params": {
+    "bg": "dawn",
+    "phone": false,
+    "ex": [
+     [
+      0,
+      "neutral"
+     ],
+     [
+      "obedezcas",
+      "determined"
+     ]
+    ],
+    "text": "NO LA OBEDEZCAS",
+    "textAt": "obedezcas",
+    "tpl": "face"
+   },
+   "end": 452.82
+  },
+  {
+   "id": "t3h",
+   "start": 452.82,
+   "line": "Cada vez que resistes",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "scene": "brainState",
+   "params": {
+    "mode": "calm",
+    "label": "LA CALMA NO ES UNA AMENAZA",
+    "labelAt": "calma",
+    "labelColor": "gold",
+    "tpl": "brainState"
+   },
+   "end": 457.99
+  },
+  {
+   "id": "t4",
+   "start": 457.99,
+   "line": "Cuatro",
+   "bars": "none",
+   "in": {
+    "type": "flash",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "impact",
+     "gain": -10
+    }
+   ],
+   "scene": "tip",
+   "params": {
+    "n": 4,
+    "title": [
+     "ENTRENA LA ATENCIÓN",
+     "COMO UN MÚSCULO"
+    ],
+    "titleAt": "entrena",
+    "tpl": "tip"
+   },
+   "end": 461.94
+  },
+  {
+   "id": "t4a",
+   "start": 461.94,
+   "line": "Elige una sola",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "desk",
+   "params": {
+    "mood": "golden",
+    "expr": "determined",
+    "tpl": "desk"
+   },
+   "end": 463.8
+  },
+  {
+   "id": "t4b",
+   "start": 463.8,
+   "line": "Pon un temporizador",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "clock",
+     "gain": -14
+    }
+   ],
+   "scene": "timer",
+   "params": {
+    "tpl": "timer"
+   },
+   "end": 469.33
+  },
+  {
+   "id": "t4c",
+   "start": 469.33,
+   "line": "Cuando tu mente se escape",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "timer",
+   "params": {
+    "mode": "wander",
+    "at": "escape",
+    "backAt": "regrésala",
+    "tpl": "timer"
+   },
+   "end": 475.7
+  },
+  {
+   "id": "t4d",
+   "start": 475.7,
+   "line": "Ese regreso",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "hit",
+     "gain": -16
+    },
+    {
+     "at": 2.5,
+     "name": "hit",
+     "gain": -16
+    }
+   ],
+   "scene": "gym",
+   "params": {
+    "tpl": "gym"
+   },
+   "end": 482.68
+  },
+  {
+   "id": "t4e",
+   "start": 482.68,
+   "line": "Con el tiempo alarga",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.2,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 3.6,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 5.3,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "scene": "blocks",
+   "params": {
+    "tpl": "blocks"
+   },
+   "end": 489.19
+  },
+  {
+   "id": "t5",
+   "start": 489.19,
+   "line": "Cinco Cambia",
+   "bars": "none",
+   "in": {
+    "type": "flash",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "impact",
+     "gain": -10
+    }
+   ],
+   "scene": "tip",
+   "params": {
+    "n": 5,
+    "title": [
+     "DOPAMINA RÁPIDA",
+     "→ DOPAMINA LENTA"
+    ],
+    "titleAt": "cambia",
+    "tpl": "tip"
+   },
+   "end": 492.98
+  },
+  {
+   "id": "t5a",
+   "start": 492.98,
+   "line": "No se trata de eliminar",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "face",
+   "params": {
+    "bg": "dawn",
+    "phone": false,
+    "ex": [
+     [
+      0,
+      "thinking"
+     ],
+     [
+      "elegir",
+      "smile"
+     ]
+    ],
+    "tpl": "face"
+   },
+   "end": 497.65
+  },
+  {
+   "id": "t5b",
+   "start": 497.65,
+   "line": "Hay placeres",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "curves",
+   "params": {
+    "fast": true,
+    "mode": "fast",
+    "title": "PLACER RÁPIDO",
+    "tpl": "curves"
+   },
+   "end": 501.33
+  },
+  {
+   "id": "t5c",
+   "start": 501.33,
+   "line": "Y hay otros",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "curves",
+   "params": {
+    "fast": true,
+    "slow": true,
+    "mode": "slow",
+    "title": "PLACER LENTO",
+    "tpl": "curves"
+   },
+   "end": 505.17
+  },
+  {
+   "id": "t5d",
+   "start": 505.17,
+   "line": "Hacer ejercicio",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 1.4,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 2.9,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 4.3,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "scene": "montage",
+   "params": {
+    "tpl": "montage"
+   },
+   "end": 511.54
+  },
+  {
+   "id": "t5e",
+   "start": 511.54,
+   "line": "Esos placeres",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.5,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "scene": "dawn",
+   "params": {
+    "pose": "cheer",
+    "ex": [
+     [
+      0,
+      "smile"
+     ],
+     [
+      "construyen",
+      "joy"
+     ]
+    ],
+    "tpl": "dawn"
+   },
+   "end": 514.43
+  },
+  {
+   "id": "c6",
+   "start": 514.43,
+   "line": "Lo que vas a sentir",
+   "bars": "scope",
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "scene": "chapter",
+   "params": {
+    "lines": [
+     "PARTE 6",
+     "LO QUE VAS A SENTIR"
+    ],
+    "bg": "dawn",
+    "tpl": "chapter"
+   },
+   "end": 516.47
+  },
+  {
+   "id": "l01",
+   "start": 516.47,
+   "line": "Imagina a alguien",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "desk",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   },
+   "params": {
+    "who": "LUCIA",
+    "mood": "golden",
+    "expr": "smile",
+    "badge": "LUCÍA · 32 AÑOS",
+    "badgeAt": "lucía",
+    "tpl": "desk"
+   },
+   "end": 521.97
+  },
+  {
+   "id": "l02",
+   "start": 521.97,
+   "line": "Cada mañana",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "desk",
+   "params": {
+    "who": "LUCIA",
+    "mood": "golden",
+    "expr": "determined",
+    "clock": "8:30",
+    "tpl": "desk"
+   },
+   "end": 527.57
+  },
+  {
+   "id": "l03",
+   "start": 527.57,
+   "line": "Pero primero revisa",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.7,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 2.3,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 4.0,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "scene": "laptop",
+   "params": {
+    "mood": "golden",
+    "tabs": [
+     [
+      0,
+      "PROYECTO",
+      0
+     ],
+     [
+      "correo",
+      "CORREO",
+      3
+     ],
+     [
+      "mensaje",
+      "MENSAJES",
+      1
+     ],
+     [
+      "redes",
+      "REDES",
+      2
+     ]
+    ],
+    "tpl": "laptop"
+   },
+   "end": 534.9
+  },
+  {
+   "id": "l04",
+   "start": 534.9,
+   "line": "Al mediodía",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "clock",
+     "gain": -14
+    }
+   ],
+   "scene": "desk",
+   "params": {
+    "who": "LUCIA",
+    "mood": "golden",
+    "pose": "facepalm",
+    "expr": "sad",
+    "clock": "12:00",
+    "tpl": "desk"
+   },
+   "end": 538.26
+  },
+  {
+   "id": "l05",
+   "start": 538.26,
+   "line": "Una semana decide",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "kitchen",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   },
+   "params": {
+    "putAt": "cocina",
+    "tpl": "kitchen"
+   },
+   "end": 545.2
+  },
+  {
+   "id": "l06",
+   "start": 545.2,
+   "line": "El primer día",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "desk",
+   "params": {
+    "who": "LUCIA",
+    "mood": "golden",
+    "expr": "nervous",
+    "look": [
+     -1,
+     0
+    ],
+    "badge": "DÍA 1",
+    "door": true,
+    "tpl": "desk"
+   },
+   "end": 548.5
+  },
+  {
+   "id": "l07",
+   "start": 548.5,
+   "line": "Se levanta dos",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "kitchen",
+   "params": {
+    "putAt": 99,
+    "badge": "DÍA 1",
+    "tpl": "kitchen"
+   },
+   "end": 550.9
+  },
+  {
+   "id": "l08",
+   "start": 550.9,
+   "line": "El tercer día",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "desk",
+   "params": {
+    "who": "LUCIA",
+    "mood": "golden",
+    "expr": "neutral",
+    "badge": "DÍA 3",
+    "meter": [
+     0.8,
+     0.25
+    ],
+    "meterLabel": "ANSIEDAD",
+    "tpl": "desk"
+   },
+   "end": 553.52
+  },
+  {
+   "id": "l09",
+   "start": 553.52,
+   "line": "Al final de la semana",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 3.4,
+     "name": "ding",
+     "gain": -10
+    }
+   ],
+   "scene": "desk",
+   "params": {
+    "who": "LUCIA",
+    "mood": "golden",
+    "poses": [
+     [
+      0,
+      "typing"
+     ],
+     [
+      "días",
+      "cheer"
+     ]
+    ],
+    "ex": [
+     [
+      0,
+      "determined"
+     ],
+     [
+      "días",
+      "joy"
+     ]
+    ],
+    "badge": "DÍA 7",
+    "progress": 1.0,
+    "progressLabel": "PROYECTO",
+    "tpl": "desk"
+   },
+   "end": 558.61
+  },
+  {
+   "id": "l10",
+   "start": 558.61,
+   "line": "No cambió su talento",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "hit",
+     "gain": -16
+    },
+    {
+     "at": 1.8,
+     "name": "hit",
+     "gain": -16
+    },
+    {
+     "at": 3.6,
+     "name": "ding",
+     "gain": -10
+    }
+   ],
+   "scene": "checklist",
+   "params": {
+    "tpl": "checklist"
+   },
+   "end": 563.76
+  },
+  {
+   "id": "l11",
+   "start": 563.76,
+   "line": "Y su cerebro respondió",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "powerup",
+     "gain": -12
+    }
+   ],
+   "scene": "brainState",
+   "params": {
+    "mode": "calm",
+    "tpl": "brainState"
+   },
+   "end": 566.64
+  },
+  {
+   "id": "s01",
+   "start": 566.64,
+   "line": "Ahora quiero ser",
+   "bars": "scope",
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [],
+   "scene": "face",
+   "params": {
+    "bg": "dawn",
+    "phone": false,
+    "ex": [
+     [
+      0,
+      "neutral"
+     ]
+    ],
+    "tpl": "face"
+   },
+   "end": 568.85
+  },
+  {
+   "id": "s02",
+   "start": 568.85,
+   "line": "Los primeros días",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "room",
+   "params": {
+    "mood": "golden",
+    "prop": null,
+    "ex": [
+     [
+      0,
+      "neutral"
+     ],
+     [
+      "inquieto",
+      "nervous"
+     ],
+     [
+      "aburrido",
+      "sleepy"
+     ],
+     [
+      "irritable",
+      "angry"
+     ]
+    ],
+    "look": [
+     1,
+     0
+    ],
+    "tpl": "room"
+   },
+   "end": 576.08
+  },
+  {
+   "id": "s03",
+   "start": 576.08,
+   "line": "Eso no significa",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "balance",
+   "params": {
+    "mode": "return",
+    "at": "balanza",
+    "tpl": "balance"
+   },
+   "end": 581.46
+  },
+  {
+   "id": "s04",
+   "start": 581.46,
+   "line": "Y luego poco",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "dawn",
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   },
+   "params": {
+    "expr": "smile",
+    "z0": 1.0,
+    "z1": 1.1,
+    "tpl": "dawn"
+   },
+   "end": 585.24
+  },
+  {
+   "id": "s05",
+   "start": 585.24,
+   "line": "Un día notas",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.5,
+     "name": "ding",
+     "gain": -14
+    }
+   ],
+   "scene": "room",
+   "params": {
+    "mood": "golden",
+    "prop": "paper",
+    "expr": "smile",
+    "look": [
+     0.6,
+     0.8
+    ],
+    "badge": "10 PÁGINAS",
+    "badgeAt": "diez",
+    "tpl": "room"
+   },
+   "end": 589.14
+  },
+  {
+   "id": "s06",
+   "start": 589.14,
+   "line": "Otro día terminas",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "desk",
+   "params": {
+    "mood": "golden",
+    "expr": "smile",
+    "progress": 1.0,
+    "progressLabel": "TAREA · EN LA MITAD DEL TIEMPO",
+    "tpl": "desk"
+   },
+   "end": 592.56
+  },
+  {
+   "id": "s07",
+   "start": 592.56,
+   "line": "Una tarde caminas",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "walk",
+   "amb": {
+    "name": "wind",
+    "gain": -26
+   },
+   "params": {
+    "mood": "golden",
+    "notes": true,
+    "tpl": "walk"
+   },
+   "end": 599.76
+  },
+  {
+   "id": "s08",
+   "start": 599.76,
+   "line": "Las cosas simples",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "table",
+   "params": {
+    "mode": "eat",
+    "friend": true,
+    "mood": "golden",
+    "tpl": "table"
+   },
+   "end": 602.19
+  },
+  {
+   "id": "s09",
+   "start": 602.19,
+   "line": "Y entiendes que",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "scene": "dawn",
+   "params": {
+    "fog": true,
+    "pose": "stand",
+    "expr": "awe",
+    "tpl": "dawn"
+   },
+   "end": 608.72
+  },
+  {
+   "id": "z01",
+   "start": 608.72,
+   "line": "Así que la próxima",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [],
+   "scene": "grab",
+   "params": {
+    "mode": "stop",
+    "reachAt": 0.4,
+    "stopAt": "detente",
+    "mood": "golden",
+    "tpl": "grab"
+   },
+   "end": 611.86
+  },
+  {
+   "id": "z02",
+   "start": 611.86,
+   "line": "detente un segundo",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.5,
+     "name": "slowmo",
+     "gain": -10
+    }
+   ],
+   "scene": "face",
+   "params": {
+    "bg": "dawn",
+    "phone": false,
+    "ex": [
+     [
+      0,
+      "surprised"
+     ],
+     [
+      "respira",
+      "sleepy"
+     ]
+    ],
+    "rings": true,
+    "ringColor": null,
+    "tpl": "face"
+   },
+   "end": 614.7
+  },
+  {
+   "id": "z03",
+   "start": 614.7,
+   "line": "Y recuerda esto",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "bigText",
+   "params": {
+    "lines": [
+     [
+      "tú",
+      "TÚ NO ERES",
+      "cream"
+     ],
+     [
+      "distracción",
+      "TU DISTRACCIÓN",
+      "gold"
+     ]
+    ],
+    "bg": "dawn",
+    "tpl": "bigText"
+   },
+   "end": 618.61
+  },
+  {
+   "id": "z04",
+   "start": 618.61,
+   "line": "Tú no eres tu falta",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "bigText",
+   "params": {
+    "lines": [
+     [
+      "tú",
+      "TÚ NO ERES",
+      "cream"
+     ],
+     [
+      "falta",
+      "TU FALTA DE CONCENTRACIÓN",
+      "gold",
+      70
+     ]
+    ],
+    "bg": "dawn",
+    "tpl": "bigText"
+   },
+   "end": 620.56
+  },
+  {
+   "id": "z05",
+   "start": 620.56,
+   "line": "Tu mente no está rota",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "scene": "brainState",
+   "params": {
+    "mode": "intact",
+    "label": "NUNCA LO ESTUVO",
+    "labelAt": "nunca",
+    "labelColor": "gold",
+    "tpl": "brainState"
+   },
+   "end": 624.24
+  },
+  {
+   "id": "z06",
+   "start": 624.24,
+   "line": "Solo ha estado gritando",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "riser",
+     "gain": -14
+    }
+   ],
+   "scene": "noise",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   },
+   "params": {
+    "tpl": "noise"
+   },
+   "end": 628.79
+  },
+  {
+   "id": "z07",
+   "start": 628.79,
+   "line": "Mañana cuando despiertes",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "dawn",
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   },
+   "params": {
+    "bed": true,
+    "fx": 60,
+    "pose": "stand",
+    "expr": "smile",
+    "badge": "30 MIN SIN TELÉFONO",
+    "badgeAt": "treinta",
+    "tpl": "dawn"
+   },
+   "end": 634.48
+  },
+  {
+   "id": "z08",
+   "start": 634.48,
+   "line": "Deja que tu mente",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "dawn",
+   "params": {
+    "pose": "cup",
+    "expr": "smile",
+    "strike": [
+     [
+      "titulares",
+      "TITULARES"
+     ],
+     [
+      "mensajes",
+      "MENSAJES"
+     ],
+     [
+      "opinión",
+      "LA OPINIÓN DE NADIE"
+     ]
+    ],
+    "tpl": "dawn"
+   },
+   "end": 641.27
+  },
+  {
+   "id": "z09",
+   "start": 641.27,
+   "line": "Baja el volumen",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "volume",
+   "params": {
+    "text": "BAJA EL VOLUMEN",
+    "at": 0.1,
+    "tpl": "volume"
+   },
+   "end": 642.7
+  },
+  {
+   "id": "z10",
+   "start": 642.7,
+   "line": "Recupera el silencio",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "dawn",
+   "params": {
+    "pose": "stand",
+    "expr": "sleepy",
+    "z0": 1.05,
+    "z1": 0.98,
+    "tpl": "dawn"
+   },
+   "end": 644.88
+  },
+  {
+   "id": "z11",
+   "start": 644.88,
+   "line": "Y en ese silencio",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "face",
+   "params": {
+    "bg": "dawn",
+    "phone": false,
+    "ex": [
+     [
+      0,
+      "neutral"
+     ],
+     [
+      "encontrar",
+      "awe"
+     ]
+    ],
+    "sparkle": "sentir",
+    "tpl": "face"
+   },
+   "end": 649.16
+  },
+  {
+   "id": "z12",
+   "start": 649.16,
+   "line": "Tu propia atención",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 3.0,
+     "name": "shimmer",
+     "gain": -10
+    }
+   ],
+   "scene": "bigText",
+   "params": {
+    "lines": [
+     [
+      "atención",
+      "TU PROPIA ATENCIÓN",
+      "cream"
+     ],
+     [
+      "dirección",
+      "TU PROPIA DIRECCIÓN",
+      "cream"
+     ],
+     [
+      "vida",
+      "TU PROPIA VIDA",
+      "gold"
+     ]
+    ],
+    "bg": "dawn",
+    "tpl": "bigText"
+   },
+   "end": 653.81
+  },
+  {
+   "id": "z13",
+   "start": 653.81,
+   "line": "Empieza hoy",
+   "bars": "scope",
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "endCard",
+   "params": {
+    "lines": [
+     [
+      "hoy",
+      "EMPIEZA HOY",
+      "gold"
+     ],
+     [
+      "minuto",
+      "CON UN SOLO MINUTO",
+      "cream"
+     ],
+     [
+      "tuyo",
+      "CADA MINUTO QUE RECUPERAS ES TUYO",
+      "cream"
+     ]
+    ],
+    "tpl": "endCard"
+   },
+   "end": 664.5
+  }
+ ],
+ "music": [
+  {
+   "start": 0,
+   "end": 55,
+   "mood": "tension",
+   "intensity": 0.4
+  },
+  {
+   "start": 55,
+   "end": 131,
+   "mood": "mystery",
+   "intensity": 0.35
+  },
+  {
+   "start": 131,
+   "end": 151,
+   "mood": "tension",
+   "intensity": 0.5
+  },
+  {
+   "start": 151,
+   "end": 232,
+   "mood": "tension",
+   "intensity": 0.45
+  },
+  {
+   "start": 232,
+   "end": 353,
+   "mood": "mystery",
+   "intensity": 0.4
+  },
+  {
+   "start": 353,
+   "end": 388,
+   "mood": "hopeful",
+   "intensity": 0.4
+  },
+  {
+   "start": 388,
+   "end": 515,
+   "mood": "hopeful",
+   "intensity": 0.5
+  },
+  {
+   "start": 515,
+   "end": 608,
+   "mood": "wonder",
+   "intensity": 0.45
+  },
+  {
+   "start": 608,
+   "end": 664.5,
+   "mood": "triumph",
+   "intensity": 0.4
+  }
+ ],
+ "sfx": []
+}
