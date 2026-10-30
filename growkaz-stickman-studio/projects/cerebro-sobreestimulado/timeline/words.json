@@ -1,0 +1,1165 @@
+{
+ "source": "script aligned to sherpa-onnx whisper-small",
+ "words": [
+  {
+   "word": "Parte",
+   "start": 0.266,
+   "end": 0.874
+  },
+  {
+   "word": "1.",
+   "start": 0.874,
+   "end": 1.482
+  },
+  {
+   "word": "El",
+   "start": 1.482,
+   "end": 1.641
+  },
+  {
+   "word": "cerebro",
+   "start": 1.655,
+   "end": 2.08
+  },
+  {
+   "word": "que",
+   "start": 2.117,
+   "end": 2.329
+  },
+  {
+   "word": "heredaste.",
+   "start": 2.347,
+   "end": 2.931
+  },
+  {
+   "word": "Empecemos",
+   "start": 5.066,
+   "end": 5.506
+  },
+  {
+   "word": "por",
+   "start": 5.545,
+   "end": 5.721
+  },
+  {
+   "word": "el",
+   "start": 5.736,
+   "end": 5.868
+  },
+  {
+   "word": "principio.",
+   "start": 5.88,
+   "end": 6.364
+  },
+  {
+   "word": "Tu",
+   "start": 7.018,
+   "end": 7.172
+  },
+  {
+   "word": "cerebro",
+   "start": 7.186,
+   "end": 7.597
+  },
+  {
+   "word": "fue",
+   "start": 7.633,
+   "end": 7.839
+  },
+  {
+   "word": "diseñado",
+   "start": 7.857,
+   "end": 8.32
+  },
+  {
+   "word": "para",
+   "start": 8.36,
+   "end": 8.618
+  },
+  {
+   "word": "un",
+   "start": 8.64,
+   "end": 8.794
+  },
+  {
+   "word": "mundo",
+   "start": 8.808,
+   "end": 9.116
+  },
+  {
+   "word": "que",
+   "start": 9.143,
+   "end": 9.349
+  },
+  {
+   "word": "ya",
+   "start": 9.367,
+   "end": 9.521
+  },
+  {
+   "word": "no",
+   "start": 9.535,
+   "end": 9.689
+  },
+  {
+   "word": "existe.",
+   "start": 9.703,
+   "end": 10.114
+  },
+  {
+   "word": "Durante",
+   "start": 10.762,
+   "end": 11.211
+  },
+  {
+   "word": "cientos",
+   "start": 11.25,
+   "end": 11.7
+  },
+  {
+   "word": "de",
+   "start": 11.739,
+   "end": 11.907
+  },
+  {
+   "word": "miles",
+   "start": 11.922,
+   "end": 12.259
+  },
+  {
+   "word": "de",
+   "start": 12.288,
+   "end": 12.457
+  },
+  {
+   "word": "años,",
+   "start": 12.472,
+   "end": 12.809
+  },
+  {
+   "word": "los",
+   "start": 13.13,
+   "end": 13.329
+  },
+  {
+   "word": "seres",
+   "start": 13.346,
+   "end": 13.644
+  },
+  {
+   "word": "humanos",
+   "start": 13.67,
+   "end": 14.067
+  },
+  {
+   "word": "vivieron",
+   "start": 14.102,
+   "end": 14.549
+  },
+  {
+   "word": "en",
+   "start": 14.588,
+   "end": 14.737
+  },
+  {
+   "word": "la",
+   "start": 14.75,
+   "end": 14.899
+  },
+  {
+   "word": "escasez.",
+   "start": 14.912,
+   "end": 15.359
+  },
+  {
+   "word": "La",
+   "start": 15.359,
+   "end": 15.869
+  },
+  {
+   "word": "comida",
+   "start": 15.869,
+   "end": 16.378
+  },
+  {
+   "word": "era",
+   "start": 16.378,
+   "end": 16.888
+  },
+  {
+   "word": "escasa.",
+   "start": 16.888,
+   "end": 17.342
+  },
+  {
+   "word": "La",
+   "start": 17.834,
+   "end": 18.014
+  },
+  {
+   "word": "información",
+   "start": 18.029,
+   "end": 18.747
+  },
+  {
+   "word": "era",
+   "start": 18.81,
+   "end": 19.049
+  },
+  {
+   "word": "escasa.",
+   "start": 19.07,
+   "end": 19.548
+  },
+  {
+   "word": "Las",
+   "start": 20.138,
+   "end": 20.398
+  },
+  {
+   "word": "novedades",
+   "start": 20.421,
+   "end": 21.071
+  },
+  {
+   "word": "eran",
+   "start": 21.128,
+   "end": 21.453
+  },
+  {
+   "word": "escasas.",
+   "start": 21.482,
+   "end": 22.067
+  },
+  {
+   "word": "Encontrar",
+   "start": 22.73,
+   "end": 23.266
+  },
+  {
+   "word": "un",
+   "start": 23.313,
+   "end": 23.474
+  },
+  {
+   "word": "árbol",
+   "start": 23.488,
+   "end": 23.809
+  },
+  {
+   "word": "con",
+   "start": 23.837,
+   "end": 24.052
+  },
+  {
+   "word": "fruta",
+   "start": 24.07,
+   "end": 24.392
+  },
+  {
+   "word": "madura",
+   "start": 24.42,
+   "end": 24.795
+  },
+  {
+   "word": "era",
+   "start": 24.828,
+   "end": 25.042
+  },
+  {
+   "word": "un",
+   "start": 25.061,
+   "end": 25.222
+  },
+  {
+   "word": "evento.",
+   "start": 25.236,
+   "end": 25.665
+  },
+  {
+   "word": "Escuchar",
+   "start": 26.282,
+   "end": 26.772
+  },
+  {
+   "word": "una",
+   "start": 26.814,
+   "end": 27.01
+  },
+  {
+   "word": "noticia",
+   "start": 27.027,
+   "end": 27.419
+  },
+  {
+   "word": "del",
+   "start": 27.453,
+   "end": 27.649
+  },
+  {
+   "word": "grupo",
+   "start": 27.666,
+   "end": 27.96
+  },
+  {
+   "word": "vecino,",
+   "start": 27.985,
+   "end": 28.328
+  },
+  {
+   "word": "también.",
+   "start": 28.328,
+   "end": 29.161
+  },
+  {
+   "word": "Y",
+   "start": 29.161,
+   "end": 29.994
+  },
+  {
+   "word": "para",
+   "start": 29.994,
+   "end": 30.214
+  },
+  {
+   "word": "que",
+   "start": 30.234,
+   "end": 30.41
+  },
+  {
+   "word": "no",
+   "start": 30.425,
+   "end": 30.557
+  },
+  {
+   "word": "dejaras",
+   "start": 30.569,
+   "end": 30.921
+  },
+  {
+   "word": "de",
+   "start": 30.952,
+   "end": 31.084
+  },
+  {
+   "word": "buscar",
+   "start": 31.096,
+   "end": 31.404
+  },
+  {
+   "word": "esas",
+   "start": 31.431,
+   "end": 31.652
+  },
+  {
+   "word": "cosas,",
+   "start": 31.671,
+   "end": 31.979
+  },
+  {
+   "word": "tu",
+   "start": 32.33,
+   "end": 32.482
+  },
+  {
+   "word": "cerebro",
+   "start": 32.496,
+   "end": 32.902
+  },
+  {
+   "word": "desarrolló",
+   "start": 32.937,
+   "end": 33.495
+  },
+  {
+   "word": "un",
+   "start": 33.544,
+   "end": 33.696
+  },
+  {
+   "word": "sistema",
+   "start": 33.71,
+   "end": 34.116
+  },
+  {
+   "word": "brillante.",
+   "start": 34.151,
+   "end": 34.709
+  },
+  {
+   "word": "Ese",
+   "start": 35.402,
+   "end": 35.611
+  },
+  {
+   "word": "sistema",
+   "start": 35.629,
+   "end": 36.046
+  },
+  {
+   "word": "tiene",
+   "start": 36.082,
+   "end": 36.395
+  },
+  {
+   "word": "un",
+   "start": 36.423,
+   "end": 36.579
+  },
+  {
+   "word": "mensajero",
+   "start": 36.593,
+   "end": 37.114
+  },
+  {
+   "word": "químico.",
+   "start": 37.16,
+   "end": 37.629
+  },
+  {
+   "word": "Se",
+   "start": 38.154,
+   "end": 38.359
+  },
+  {
+   "word": "llama",
+   "start": 38.377,
+   "end": 38.788
+  },
+  {
+   "word": "dopamina.",
+   "start": 38.788,
+   "end": 41.098
+  },
+  {
+   "word": "Durante",
+   "start": 41.098,
+   "end": 41.499
+  },
+  {
+   "word": "mucho",
+   "start": 41.533,
+   "end": 41.834
+  },
+  {
+   "word": "tiempo",
+   "start": 41.86,
+   "end": 42.211
+  },
+  {
+   "word": "se",
+   "start": 42.241,
+   "end": 42.391
+  },
+  {
+   "word": "pensó",
+   "start": 42.404,
+   "end": 42.705
+  },
+  {
+   "word": "que",
+   "start": 42.731,
+   "end": 42.931
+  },
+  {
+   "word": "la",
+   "start": 42.949,
+   "end": 43.099
+  },
+  {
+   "word": "dopamina",
+   "start": 43.112,
+   "end": 43.563
+  },
+  {
+   "word": "era",
+   "start": 43.602,
+   "end": 43.802
+  },
+  {
+   "word": "la",
+   "start": 43.82,
+   "end": 43.97
+  },
+  {
+   "word": "molécula",
+   "start": 43.983,
+   "end": 44.434
+  },
+  {
+   "word": "del",
+   "start": 44.473,
+   "end": 44.673
+  },
+  {
+   "word": "placer.",
+   "start": 44.691,
+   "end": 45.091
+  },
+  {
+   "word": "Pero",
+   "start": 45.802,
+   "end": 46.064
+  },
+  {
+   "word": "la",
+   "start": 46.087,
+   "end": 46.244
+  },
+  {
+   "word": "ciencia",
+   "start": 46.258,
+   "end": 46.677
+  },
+  {
+   "word": "ha",
+   "start": 46.713,
+   "end": 46.87
+  },
+  {
+   "word": "ido",
+   "start": 46.884,
+   "end": 47.094
+  },
+  {
+   "word": "mostrando",
+   "start": 47.112,
+   "end": 47.636
+  },
+  {
+   "word": "algo",
+   "start": 47.681,
+   "end": 47.943
+  },
+  {
+   "word": "más",
+   "start": 47.966,
+   "end": 48.175
+  },
+  {
+   "word": "interesante.",
+   "start": 48.194,
+   "end": 48.875
+  },
+  {
+   "word": "El",
+   "start": 49.61,
+   "end": 49.776
+  },
+  {
+   "word": "neurocientífico",
+   "start": 49.791,
+   "end": 50.677
+  },
+  {
+   "word": "Kent",
+   "start": 50.754,
+   "end": 51.031
+  },
+  {
+   "word": "Berridge",
+   "start": 51.031,
+   "end": 51.536
+  },
+  {
+   "word": "distinguió",
+   "start": 51.536,
+   "end": 52.146
+  },
+  {
+   "word": "entre",
+   "start": 52.199,
+   "end": 52.531
+  },
+  {
+   "word": "dos",
+   "start": 52.56,
+   "end": 52.781
+  },
+  {
+   "word": "cosas:",
+   "start": 52.801,
+   "end": 53.188
+  },
+  {
+   "word": "querer",
+   "start": 53.77,
+   "end": 54.208
+  },
+  {
+   "word": "y",
+   "start": 54.474,
+   "end": 54.587
+  },
+  {
+   "word": "disfrutar.",
+   "start": 54.596,
+   "end": 55.216
+  },
+  {
+   "word": "Y",
+   "start": 55.85,
+   "end": 55.948
+  },
+  {
+   "word": "descubrió",
+   "start": 55.957,
+   "end": 56.449
+  },
+  {
+   "word": "que",
+   "start": 56.491,
+   "end": 56.688
+  },
+  {
+   "word": "la",
+   "start": 56.705,
+   "end": 56.853
+  },
+  {
+   "word": "dopamina",
+   "start": 56.865,
+   "end": 57.308
+  },
+  {
+   "word": "está",
+   "start": 57.346,
+   "end": 57.592
+  },
+  {
+   "word": "mucho",
+   "start": 57.614,
+   "end": 57.909
+  },
+  {
+   "word": "más",
+   "start": 57.934,
+   "end": 58.131
+  },
+  {
+   "word": "ligada",
+   "start": 58.148,
+   "end": 58.492
+  },
+  {
+   "word": "al",
+   "start": 58.522,
+   "end": 58.67
+  },
+  {
+   "word": "querer.",
+   "start": 58.682,
+   "end": 59.076
+  },
+  {
+   "word": "Al",
+   "start": 59.626,
+   "end": 59.81
+  },
+  {
+   "word": "deseo.",
+   "start": 59.826,
+   "end": 60.257
+  },
+  {
+   "word": "A",
+   "start": 60.746,
+   "end": 60.845
+  },
+  {
+   "word": "la",
+   "start": 60.853,
+   "end": 61.002
+  },
+  {
+   "word": "anticipación.",
+   "start": 61.014,
+   "end": 61.706
+  },
+  {
+   "word": "La",
+   "start": 62.474,
+   "end": 62.645
+  },
+  {
+   "word": "dopamina",
+   "start": 62.66,
+   "end": 63.173
+  },
+  {
+   "word": "no",
+   "start": 63.217,
+   "end": 63.388
+  },
+  {
+   "word": "es",
+   "start": 63.403,
+   "end": 63.574
+  },
+  {
+   "word": "la",
+   "start": 63.589,
+   "end": 63.76
+  },
+  {
+   "word": "recompensa.",
+   "start": 63.775,
+   "end": 64.459
+  },
+  {
+   "word": "Es",
+   "start": 64.97,
+   "end": 65.13
+  },
+  {
+   "word": "la",
+   "start": 65.144,
+   "end": 65.303
+  },
+  {
+   "word": "promesa",
+   "start": 65.317,
+   "end": 65.743
+  },
+  {
+   "word": "de",
+   "start": 65.78,
+   "end": 65.94
+  },
+  {
+   "word": "la",
+   "start": 65.954,
+   "end": 66.114
+  },
+  {
+   "word": "recompensa.",
+   "start": 66.127,
+   "end": 66.766
+  },
+  {
+   "word": "Es",
+   "start": 67.274,
+   "end": 67.416
+  },
+  {
+   "word": "la",
+   "start": 67.428,
+   "end": 67.57
+  },
+  {
+   "word": "voz",
+   "start": 67.582,
+   "end": 67.771
+  },
+  {
+   "word": "que",
+   "start": 67.787,
+   "end": 67.976
+  },
+  {
+   "word": "te",
+   "start": 67.992,
+   "end": 68.134
+  },
+  {
+   "word": "dice:",
+   "start": 68.146,
+   "end": 68.429
+  },
+  {
+   "word": "\"Sigue",
+   "start": 68.874,
+   "end": 69.193
+  },
+  {
+   "word": "buscando.",
+   "start": 69.221,
+   "end": 69.752
+  },
+  {
+   "word": "Algo",
+   "start": 70.218,
+   "end": 70.459
+  },
+  {
+   "word": "bueno",
+   "start": 70.48,
+   "end": 70.77
+  },
+  {
+   "word": "está",
+   "start": 70.795,
+   "end": 71.036
+  },
+  {
+   "word": "por",
+   "start": 71.057,
+   "end": 71.25
+  },
+  {
+   "word": "llegar.\"",
+   "start": 71.267,
+   "end": 71.652
+  },
+  {
+   "word": "Wolfram",
+   "start": 73.066,
+   "end": 73.536
+  },
+  {
+   "word": "Schultz,",
+   "start": 73.536,
+   "end": 74.088
+  },
+  {
+   "word": "otro",
+   "start": 74.088,
+   "end": 74.382
+  },
+  {
+   "word": "investigador,",
+   "start": 74.408,
+   "end": 75.23
+  },
+  {
+   "word": "observó",
+   "start": 75.658,
+   "end": 76.054
+  },
+  {
+   "word": "en",
+   "start": 76.089,
+   "end": 76.237
+  },
+  {
+   "word": "sus",
+   "start": 76.25,
+   "end": 76.448
+  },
+  {
+   "word": "experimentos",
+   "start": 76.465,
+   "end": 77.109
+  },
+  {
+   "word": "que",
+   "start": 77.165,
+   "end": 77.363
+  },
+  {
+   "word": "las",
+   "start": 77.38,
+   "end": 77.578
+  },
+  {
+   "word": "neuronas",
+   "start": 77.596,
+   "end": 78.041
+  },
+  {
+   "word": "de",
+   "start": 78.08,
+   "end": 78.229
+  },
+  {
+   "word": "dopamina",
+   "start": 78.242,
+   "end": 78.687
+  },
+  {
+   "word": "reaccionan",
+   "start": 78.986,
+   "end": 79.548
+  },
+  {
+   "word": "con",
+   "start": 79.597,
+   "end": 79.802
+  },
+  {
+   "word": "más",
+   "start": 79.819,
+   "end": 80.024
+  },
+  {
+   "word": "fuerza",
+   "start": 80.042,
+   "end": 80.4
+  },
+  {
+   "word": "ante",
+   "start": 80.431,
+   "end": 80.686
+  },
+  {
+   "word": "lo",
+   "start": 80.709,
+   "end": 80.862
+  },
+  {
+   "word": "inesperado.",
+   "start": 80.875,
+   "end": 81.489
+  },
+  {
+   "word": "Cuando",
+   "start": 82.346,
+   "end": 82.701
+  },
+  {
+   "word": "una",
+   "start": 82.731,
+   "end": 82.934
+  },
+  {
+   "word": "recompensa",
+   "start": 82.952,
+   "end": 83.509
+  },
+  {
+   "word": "supera",
+   "start": 83.557,
+   "end": 83.912
+  },
+  {
+   "word": "lo",
+   "start": 83.943,
+   "end": 84.095
+  },
+  {
+   "word": "que",
+   "start": 84.108,
+   "end": 84.311
+  },
+  {
+   "word": "esperabas,",
+   "start": 84.328,
+   "end": 84.886
+  },
+  {
+   "word": "el",
+   "start": 85.194,
+   "end": 85.348
+  },
+  {
+   "word": "sistema",
+   "start": 85.362,
+   "end": 85.772
+  },
+  {
+   "word": "se",
+   "start": 85.808,
+   "end": 85.962
+  },
+  {
+   "word": "enciende.",
+   "start": 85.976,
+   "end": 86.489
+  },
+  {
+   "word": "Cuando",
+   "start": 87.146,
+   "end": 87.509
+  },
+  {
+   "word": "ya",
+   "start": 87.541,
+   "end": 87.697
+  },
+  {
+   "word": "sabes",
+   "start": 87.71,
+   "end": 88.022
+  },
+  {
+   "word": "exactamente",
+   "start": 88.049,
+   "end": 88.672
+  },
+  {
+   "word": "lo",
+   "start": 88.726,
+   "end": 88.882
+  },
+  {
+   "word": "que",
+   "start": 88.895,
+   "end": 89.103
+  },
+  {
+   "word": "va",
+   "start": 89.121,
+   "end": 89.277
+  },
+  {
+   "word": "a",
+   "start": 89.29,
+   "end": 89.394
+  },
+  {
+   "word": "pasar,",
+   "start": 89.403,
+   "end": 89.766
+  },
+  {
+   "word": "se",
+   "start": 90.09,
+   "end": 90.285
+  },
+  {
+   "word": "calma.",
+   "start": 90.302,
+   "end": 90.692
+  },
+  {
+   "word": "En",
+   "start": 91.37,
+   "end": 91.518
+  },
+  {
+   "word": "otras",
+   "start": 91.531,
+   "end": 91.827
+  },
+  {
+   "word": "palabras…",
+   "start": 91.853,
+   "end": 92.347
+  },
+  {
+   "word": "tu",
+   "start": 92.842,
+   "end": 93.006
+  },
+  {
+   "word": "cerebro",
+   "start": 93.02,
+   "end": 93.458
+  },
+  {
+   "word": "es",
+   "start": 93.496,
+   "end": 93.66
+  },
+  {
+   "word": "adicto",
+   "start": 93.674,
+   "end": 94.057
+  },
+  {
+   "word": "a",
+   "start": 94.09,
+   "end": 94.2
+  },
+  {
+   "word": "la",
+   "start": 94.209,
+   "end": 94.373
+  },
+  {
+   "word": "sorpresa.",
+   "start": 94.388,
+   "end": 94.934
+  },
+  {
+   "word": "Y",
+   "start": 95.53,
+   "end": 95.662
+  },
+  {
+   "word": "eso,",
+   "start": 95.674,
+   "end": 95.938
+  },
+  {
+   "word": "en",
+   "start": 95.961,
+   "end": 96.159
+  },
+  {
+   "word": "la",
+   "start": 96.176,
+   "end": 96.374
+  },
+  {
+   "word": "sabana,",
+   "start": 96.392,
+   "end": 96.92
+  },
+  {
+   "word": "te",
+   "start": 97.258,
+   "end": 97.409
+  },
+  {
+   "word": "mantenía",
+   "start": 97.423,
+   "end": 97.877
+  },
+  {
+   "word": "vivo.",
+   "start": 97.917,
+   "end": 98.22
+  },
+  {
+   "word": "Hoy…",
+   "start": 98.89,
+   "end": 99.21
+  },
+  {
+   "word": "es",
+   "start": 99.786,
+   "end": 99.952
+  },
+  {
+   "word": "la",
+   "start": 99.967,
+   "end": 100.133
+  },
+  {
+   "word": "puerta",
+   "start": 100.147,
+   "end": 100.535
+  },
+  {
+   "word": "por",
+   "start": 100.568,
+   "end": 100.79
+  },
+  {
+   "word": "donde",
+   "start": 100.809,
+   "end": 101.141
+  },
+  {
+   "word": "entra",
+   "start": 101.17,
+   "end": 101.503
+  },
+  {
+   "word": "todo",
+   "start": 101.531,
+   "end": 101.808
+  },
+  {
+   "word": "lo",
+   "start": 101.832,
+   "end": 101.999
+  },
+  {
+   "word": "que",
+   "start": 102.013,
+   "end": 102.234
+  },
+  {
+   "word": "te",
+   "start": 102.254,
+   "end": 102.42
+  },
+  {
+   "word": "distrae.",
+   "start": 102.434,
+   "end": 102.933
+  }
+ ]
+}

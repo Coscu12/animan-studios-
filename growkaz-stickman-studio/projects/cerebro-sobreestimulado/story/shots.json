@@ -1,0 +1,779 @@
+{
+ "title": "Tu cerebro no está roto, está sobreestimulado",
+ "duration": 104.5,
+ "shots": [
+  {
+   "id": "s01",
+   "start": 0,
+   "end": 4.9,
+   "line": "Parte 1. El cerebro que heredaste.",
+   "scene": "title card over savanna at dusk, giant sun, acacias, slow pull-out",
+   "set": "sabana",
+   "bars": "scope",
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s02",
+   "start": 4.9,
+   "end": 6.85,
+   "line": "Empecemos por el principio.",
+   "scene": "bedroom night wide: TU on bed lit by phone, slow push",
+   "set": "dormitorio",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s03",
+   "start": 6.85,
+   "end": 10.6,
+   "line": "Tu cerebro fue diseñado para un mundo que ya no existe.",
+   "scene": "blueprint: brain line-art draws on, dotted link to a tiny savanna sun icon",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "blip",
+     "gain": -14
+    },
+    {
+     "at": 2.0,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s04",
+   "start": 10.6,
+   "end": 15.2,
+   "line": "Durante cientos de miles de años, los seres humanos vivieron en la escasez.",
+   "scene": "3D orbit: tribe around a campfire in the savanna at dusk",
+   "set": "sabana",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "whoosh",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s05",
+   "start": 15.2,
+   "end": 17.65,
+   "line": "La comida era escasa.",
+   "scene": "wide: ancestor looks at a bare bush, COMIDA meter almost empty",
+   "set": "sabana",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s06",
+   "start": 17.65,
+   "end": 19.95,
+   "line": "La información era escasa.",
+   "scene": "two-shot by the fire, silent horizon, INFORMACIÓN meter low",
+   "set": "sabana",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s07",
+   "start": 19.95,
+   "end": 22.55,
+   "line": "Las novedades eran escasas.",
+   "scene": "bigFace ancestor bored/sleepy, NOVEDADES meter low",
+   "set": "sabana",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s08",
+   "start": 22.55,
+   "end": 26.1,
+   "line": "Encontrar un árbol con fruta madura era un evento.",
+   "scene": "ancestor discovers acacia with glowing fruit, cheers, sparkles",
+   "set": "sabana",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "shimmer",
+     "gain": -10
+    },
+    {
+     "at": 2.4,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s09",
+   "start": 26.1,
+   "end": 29.0,
+   "line": "Escuchar una noticia del grupo vecino, también.",
+   "scene": "messenger with green headband runs in, two ancestors turn surprised",
+   "set": "sabana",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "footstep",
+     "gain": -14
+    },
+    {
+     "at": 0.6,
+     "name": "footstep",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s10",
+   "start": 29.0,
+   "end": 32.15,
+   "line": "Y para que no dejaras de buscar esas cosas,",
+   "scene": "ancestor walks across the savanna scanning the horizon, tracking shot",
+   "set": "sabana",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s11",
+   "start": 32.15,
+   "end": 35.25,
+   "line": "tu cerebro desarrolló un sistema brillante.",
+   "scene": "blueprint brain: reward pathway lights up gold node by node",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "powerup",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s12",
+   "start": 35.25,
+   "end": 37.95,
+   "line": "Ese sistema tiene un mensajero químico.",
+   "scene": "blueprint synapse macro: gold particles jump the gap",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s13",
+   "start": 37.95,
+   "end": 40.95,
+   "line": "Se llama dopamina.",
+   "scene": "DOPAMINA title with molecule rings drawing on, gold glow",
+   "set": "blueprint",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "stinger",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s14",
+   "start": 40.95,
+   "end": 45.6,
+   "line": "Durante mucho tiempo se pensó que la dopamina era la molécula del placer.",
+   "scene": "lab warm: Berridge points at board PLACER?",
+   "set": "laboratorio",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 3.6,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s15",
+   "start": 45.6,
+   "end": 49.45,
+   "line": "Pero la ciencia ha ido mostrando algo más interesante.",
+   "scene": "bigFace Berridge thinking -> surprised, lab blurred",
+   "set": "laboratorio",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.4,
+     "name": "ding",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s16",
+   "start": 49.45,
+   "end": 52.05,
+   "line": "El neurocientífico Kent Berridge",
+   "scene": "medium: Berridge at the bench with notes, name callout",
+   "set": "laboratorio",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.3,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s17",
+   "start": 52.05,
+   "end": 55.7,
+   "line": "distinguió entre dos cosas: querer y disfrutar.",
+   "scene": "blueprint split: QUERER (reaching figure) | DISFRUTAR (relaxed figure)",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.7,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 2.5,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s18",
+   "start": 55.7,
+   "end": 59.45,
+   "line": "Y descubrió que la dopamina está mucho más ligada al querer.",
+   "scene": "same board: gold sparks flow into QUERER, compare bars",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "counter",
+     "gain": -18
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s19",
+   "start": 59.45,
+   "end": 60.6,
+   "line": "Al deseo.",
+   "scene": "insert: ancestor's hand reaching for a glowing fruit",
+   "set": "sabana",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s20",
+   "start": 60.6,
+   "end": 62.3,
+   "line": "A la anticipación.",
+   "scene": "bigFace TU lit by phone, eyes wide, waiting",
+   "set": "dormitorio",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "heartbeat",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s21",
+   "start": 62.3,
+   "end": 64.8,
+   "line": "La dopamina no es la recompensa.",
+   "scene": "blueprint: reward icon, spark stays off it, X mark",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.4,
+     "name": "hit",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s22",
+   "start": 64.8,
+   "end": 67.1,
+   "line": "Es la promesa de la recompensa.",
+   "scene": "spark races ahead along a dotted path toward the reward: LA PROMESA",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "whoosh",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s23",
+   "start": 67.1,
+   "end": 69.95,
+   "line": "Es la voz que te dice: \"Sigue buscando.",
+   "scene": "TU on bed scrolling, whisper rings and bubble SIGUE BUSCANDO",
+   "set": "dormitorio",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.8,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s24",
+   "start": 69.95,
+   "end": 72.9,
+   "line": "Algo bueno está por llegar.\"",
+   "scene": "insert phone screen: feed scrolls, spinner, notification dot pulses",
+   "set": "dormitorio",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.2,
+     "name": "phonebuzz",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s25",
+   "start": 72.9,
+   "end": 75.5,
+   "line": "Wolfram Schultz, otro investigador,",
+   "scene": "cool lab: Schultz at a monitor, name callout",
+   "set": "laboratorio",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.9,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s26",
+   "start": 75.5,
+   "end": 78.8,
+   "line": "observó en sus experimentos que las neuronas de dopamina",
+   "scene": "OTS Schultz shoulder fg, monitor shows spike train",
+   "set": "laboratorio",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "tick",
+     "gain": -18
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s27",
+   "start": 78.8,
+   "end": 82.2,
+   "line": "reaccionan con más fuerza ante lo inesperado.",
+   "scene": "blueprint firing chart: flat, then huge spike on INESPERADO",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 1.9,
+     "name": "impact",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s28",
+   "start": 82.2,
+   "end": 86.95,
+   "line": "Cuando una recompensa supera lo que esperabas, el sistema se enciende.",
+   "scene": "chart ESPERADO line vs reward bar overshooting; brain lights up gold",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "riser",
+     "gain": -14
+    },
+    {
+     "at": 3.75,
+     "name": "powerup",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s29",
+   "start": 86.95,
+   "end": 91.2,
+   "line": "Cuando ya sabes exactamente lo que va a pasar, se calma.",
+   "scene": "bedroom: TU scrolls flat-faced, small flat line in corner, brain dims",
+   "set": "dormitorio",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s30",
+   "start": 91.2,
+   "end": 92.7,
+   "line": "En otras palabras…",
+   "scene": "bedroom wide from the window, slow push",
+   "set": "dormitorio",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s31",
+   "start": 92.7,
+   "end": 95.4,
+   "line": "tu cerebro es adicto a la sorpresa.",
+   "scene": "FREEZE: TU mid-scroll, notification icons hang in the air, ? marks",
+   "set": "dormitorio",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "freeze",
+     "gain": -6
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s32",
+   "start": 95.4,
+   "end": 98.7,
+   "line": "Y eso, en la sabana, te mantenía vivo.",
+   "scene": "savanna golden: ancestor eats fruit under the tree, sun behind",
+   "set": "sabana",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s33",
+   "start": 98.7,
+   "end": 104.5,
+   "line": "Hoy… es la puerta por donde entra todo lo que te distrae.",
+   "scene": "dark room: a glowing doorway, notification icons stream through toward TU",
+   "set": "dormitorio",
+   "bars": "scope",
+   "in": {
+    "type": "dip",
+    "dur": 0.6
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "riser",
+     "gain": -14
+    },
+    {
+     "at": 2.6,
+     "name": "whoosh",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  }
+ ],
+ "music": [
+  {
+   "start": 0,
+   "end": 41,
+   "mood": "mystery",
+   "intensity": 0.35
+  },
+  {
+   "start": 41,
+   "end": 73,
+   "mood": "wonder",
+   "intensity": 0.4
+  },
+  {
+   "start": 73,
+   "end": 91,
+   "mood": "tension",
+   "intensity": 0.5
+  },
+  {
+   "start": 91,
+   "end": 104.5,
+   "mood": "dark",
+   "intensity": 0.55
+  }
+ ],
+ "sfx": []
+}
